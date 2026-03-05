@@ -1,0 +1,2488 @@
+champion_name,role,counter_champion,matchup_winrate,rank
+Aatrox,JUNGLE,Lee Sin,54.42%,1
+Aatrox,JUNGLE,Viego,55.86%,2
+Aatrox,JUNGLE,Graves,50.89%,3
+Aatrox,JUNGLE,Kha'Zix,58.57%,4
+Aatrox,JUNGLE,Jarvan IV,49.25%,5
+Aatrox,JUNGLE,Xin Zhao,40.91%,6
+Aatrox,JUNGLE,Zaahen,42.37%,7
+Aatrox,JUNGLE,Talon,64.29%,8
+Aatrox,JUNGLE,Nocturne,48.15%,9
+Aatrox,JUNGLE,Hecarim,53.85%,10
+Aatrox,TOP,Renekton,49.55%,1
+Aatrox,TOP,Yone,51.33%,2
+Aatrox,TOP,Darius,55.79%,3
+Aatrox,TOP,Irelia,43.56%,4
+Aatrox,TOP,Garen,51.01%,5
+Aatrox,TOP,Zaahen,48.36%,6
+Aatrox,TOP,Jayce,50.59%,7
+Aatrox,TOP,Mordekaiser,51.34%,8
+Aatrox,TOP,Malphite,46.40%,9
+Aatrox,TOP,Sion,47.59%,10
+Ahri,MID,Sylas,51.33%,1
+Ahri,MID,Mel,47.84%,2
+Ahri,MID,Viktor,48.45%,3
+Ahri,MID,Yasuo,51.55%,4
+Ahri,MID,Katarina,49.30%,5
+Ahri,MID,Zed,50.05%,6
+Ahri,MID,Orianna,55.44%,7
+Ahri,MID,Twisted Fate,50.17%,8
+Ahri,MID,Akali,53.79%,9
+Ahri,MID,Syndra,54.31%,10
+Akali,MID,Ahri,46.21%,1
+Akali,MID,Yasuo,51.93%,2
+Akali,MID,Sylas,51.82%,3
+Akali,MID,Zed,47.51%,4
+Akali,MID,Galio,46.67%,5
+Akali,MID,Twisted Fate,45.07%,6
+Akali,MID,Yone,57.08%,7
+Akali,MID,Viktor,48.51%,8
+Akali,MID,Katarina,54.33%,9
+Akali,MID,Malzahar,49.85%,10
+Akali,TOP,Yone,48.39%,1
+Akali,TOP,Garen,48.90%,2
+Akali,TOP,Renekton,46.25%,3
+Akali,TOP,Jax,53.50%,4
+Akali,TOP,Zaahen,50.33%,5
+Akali,TOP,Darius,46.62%,6
+Akali,TOP,Irelia,54.61%,7
+Akali,TOP,Ambessa,50.35%,8
+Akali,TOP,Jayce,47.06%,9
+Akali,TOP,Mordekaiser,51.54%,10
+Akshan,MID,Ahri,49.29%,1
+Akshan,MID,Katarina,51.52%,2
+Akshan,MID,Viktor,50.26%,3
+Akshan,MID,Zed,58.15%,4
+Akshan,MID,Akali,46.93%,5
+Akshan,MID,Yasuo,48.55%,6
+Akshan,MID,Mel,48.82%,7
+Akshan,MID,Yone,59.38%,8
+Akshan,MID,Twisted Fate,45.28%,9
+Akshan,MID,Malzahar,55.48%,10
+Alistar,SUPPORT,Thresh,50.36%,1
+Alistar,SUPPORT,Nautilus,53.52%,2
+Alistar,SUPPORT,Leona,52.19%,3
+Alistar,SUPPORT,Nami,46.42%,4
+Alistar,SUPPORT,Karma,44.11%,5
+Alistar,SUPPORT,Lulu,48.25%,6
+Alistar,SUPPORT,Braum,48.45%,7
+Alistar,SUPPORT,Bard,45.16%,8
+Alistar,SUPPORT,Pyke,49.64%,9
+Alistar,SUPPORT,Rakan,54.85%,10
+Ambessa,JUNGLE,Lee Sin,45.99%,1
+Ambessa,JUNGLE,Viego,49.14%,2
+Ambessa,JUNGLE,Graves,48.41%,3
+Ambessa,JUNGLE,Kha'Zix,52.51%,4
+Ambessa,JUNGLE,Xin Zhao,47.60%,5
+Ambessa,JUNGLE,Jarvan IV,49.28%,6
+Ambessa,JUNGLE,Vi,41.45%,7
+Ambessa,JUNGLE,Nocturne,40.64%,8
+Ambessa,JUNGLE,Zaahen,44.17%,9
+Ambessa,JUNGLE,Ekko,49.68%,10
+Ambessa,TOP,Renekton,43.23%,1
+Ambessa,TOP,Garen,42.37%,2
+Ambessa,TOP,Zaahen,45.12%,3
+Ambessa,TOP,Aatrox,54.18%,4
+Ambessa,TOP,Jayce,47.24%,5
+Ambessa,TOP,Malphite,48.19%,6
+Ambessa,TOP,Jax,53.39%,7
+Ambessa,TOP,Irelia,49.12%,8
+Ambessa,TOP,Yone,48.44%,9
+Ambessa,TOP,Ornn,54.55%,10
+Amumu,JUNGLE,Viego,64.89%,1
+Amumu,JUNGLE,Lee Sin,55.69%,2
+Amumu,JUNGLE,Graves,45.21%,3
+Amumu,JUNGLE,Kha'Zix,53.33%,4
+Amumu,JUNGLE,Jarvan IV,49.55%,5
+Amumu,JUNGLE,Nocturne,51.85%,6
+Amumu,JUNGLE,Kayn,51.46%,7
+Amumu,JUNGLE,Lillia,53.54%,8
+Amumu,JUNGLE,Sylas,47.42%,9
+Amumu,JUNGLE,Ekko,51.61%,10
+Anivia,MID,Ahri,43.96%,1
+Anivia,MID,Viktor,49.32%,2
+Anivia,MID,Yasuo,49.40%,3
+Anivia,MID,Xerath,51.26%,4
+Anivia,MID,Zed,54.71%,5
+Anivia,MID,Sylas,54.25%,6
+Anivia,MID,Katarina,52.61%,7
+Anivia,MID,Ryze,59.02%,8
+Anivia,MID,Twisted Fate,52.06%,9
+Anivia,MID,Mel,52.72%,10
+Anivia,SUPPORT,Nami,54.02%,1
+Anivia,SUPPORT,Thresh,47.67%,2
+Anivia,SUPPORT,Karma,53.16%,3
+Anivia,SUPPORT,Lulu,53.16%,4
+Anivia,SUPPORT,Nautilus,45.16%,5
+Anivia,SUPPORT,Pyke,33.33%,6
+Anivia,SUPPORT,Bard,39.47%,7
+Anivia,SUPPORT,Leona,24.32%,8
+Anivia,SUPPORT,Yuumi,48.65%,9
+Anivia,SUPPORT,Soraka,35.29%,10
+Anivia,TOP,Malphite,55.56%,1
+Anivia,TOP,Garen,35.71%,2
+Anivia,TOP,Yone,57.14%,3
+Anivia,TOP,Sion,37.50%,4
+Anivia,TOP,Irelia,43.59%,5
+Anivia,TOP,Renekton,57.89%,6
+Anivia,TOP,Jax,62.16%,7
+Anivia,TOP,Darius,56.76%,8
+Anivia,TOP,Jayce,56.76%,9
+Anivia,TOP,Aatrox,62.16%,10
+Annie,MID,Ahri,54.82%,1
+Annie,MID,Yasuo,51.77%,2
+Annie,MID,Zed,49.06%,3
+Annie,MID,Katarina,47.40%,4
+Annie,MID,Viktor,49.31%,5
+Annie,MID,Yone,60.99%,6
+Annie,MID,Syndra,56.30%,7
+Annie,MID,Mel,52.38%,8
+Annie,MID,Malzahar,51.30%,9
+Annie,MID,Galio,46.73%,10
+Aphelios,ADC,Jinx,48.07%,1
+Aphelios,ADC,Kai'Sa,53.43%,2
+Aphelios,ADC,Caitlyn,48.73%,3
+Aphelios,ADC,Jhin,50.24%,4
+Aphelios,ADC,Yunara,51.36%,5
+Aphelios,ADC,Smolder,47.93%,6
+Aphelios,ADC,Ashe,47.40%,7
+Aphelios,ADC,Lucian,48.83%,8
+Aphelios,ADC,Miss Fortune,45.49%,9
+Aphelios,ADC,Varus,47.97%,10
+Ashe,ADC,Ezreal,51.66%,1
+Ashe,ADC,Jinx,50.12%,2
+Ashe,ADC,Caitlyn,52.18%,3
+Ashe,ADC,Kai'Sa,53.71%,4
+Ashe,ADC,Jhin,53.28%,5
+Ashe,ADC,Lucian,50.06%,6
+Ashe,ADC,Yunara,51.12%,7
+Ashe,ADC,Smolder,50.86%,8
+Ashe,ADC,Sivir,52.18%,9
+Ashe,ADC,Miss Fortune,48.73%,10
+Aurelion Sol,ADC,Kai'Sa,55.47%,1
+Aurelion Sol,ADC,Jinx,53.64%,2
+Aurelion Sol,ADC,Caitlyn,50.94%,3
+Aurelion Sol,ADC,Ezreal,45.45%,4
+Aurelion Sol,ADC,Jhin,55.06%,5
+Aurelion Sol,ADC,Smolder,46.43%,6
+Aurelion Sol,ADC,Yunara,59.09%,7
+Aurelion Sol,ADC,Twitch,57.63%,8
+Aurelion Sol,ADC,Ashe,62.07%,9
+Aurelion Sol,ADC,Aphelios,47.17%,10
+Aurelion Sol,MID,Ahri,46.65%,1
+Aurelion Sol,MID,Yasuo,56.03%,2
+Aurelion Sol,MID,Viktor,47.26%,3
+Aurelion Sol,MID,Malzahar,48.13%,4
+Aurelion Sol,MID,Mel,60.49%,5
+Aurelion Sol,MID,Akali,53.13%,6
+Aurelion Sol,MID,Sylas,57.45%,7
+Aurelion Sol,MID,Katarina,51.63%,8
+Aurelion Sol,MID,Yone,47.80%,9
+Aurelion Sol,MID,Veigar,46.63%,10
+Aurora,MID,Ahri,46.77%,1
+Aurora,MID,Viktor,50.66%,2
+Aurora,MID,Sylas,52.19%,3
+Aurora,MID,Yasuo,56.88%,4
+Aurora,MID,Twisted Fate,48.21%,5
+Aurora,MID,Akali,49.79%,6
+Aurora,MID,Katarina,49.09%,7
+Aurora,MID,Galio,45.62%,8
+Aurora,MID,Yone,53.02%,9
+Aurora,MID,Zed,53.08%,10
+Aurora,TOP,Irelia,31.67%,1
+Aurora,TOP,Renekton,58.33%,2
+Aurora,TOP,Darius,51.67%,3
+Aurora,TOP,Jayce,43.33%,4
+Aurora,TOP,K'Sante,49.15%,5
+Aurora,TOP,Zaahen,59.32%,6
+Aurora,TOP,Ornn,45.45%,7
+Aurora,TOP,Aatrox,55.56%,8
+Aurora,TOP,Jax,46.15%,9
+Aurora,TOP,Malphite,56.25%,10
+Azir,MID,Ahri,36.73%,1
+Azir,MID,Yasuo,43.92%,2
+Azir,MID,Viktor,41.06%,3
+Azir,MID,Xerath,33.59%,4
+Azir,MID,Zed,45.80%,5
+Azir,MID,Orianna,42.52%,6
+Azir,MID,Sylas,46.03%,7
+Azir,MID,Yone,40.48%,8
+Azir,MID,Malzahar,41.13%,9
+Azir,MID,Katarina,43.10%,10
+Bard,SUPPORT,Nami,49.75%,1
+Bard,SUPPORT,Karma,53.14%,2
+Bard,SUPPORT,Thresh,49.01%,3
+Bard,SUPPORT,Lulu,50.20%,4
+Bard,SUPPORT,Nautilus,49.14%,5
+Bard,SUPPORT,Milio,52.88%,6
+Bard,SUPPORT,Braum,51.90%,7
+Bard,SUPPORT,Pyke,51.12%,8
+Bard,SUPPORT,Leona,50.50%,9
+Bard,SUPPORT,Senna,50.38%,10
+Bel'Veth,JUNGLE,Viego,50.70%,1
+Bel'Veth,JUNGLE,Lee Sin,54.39%,2
+Bel'Veth,JUNGLE,Graves,52.53%,3
+Bel'Veth,JUNGLE,Kha'Zix,53.38%,4
+Bel'Veth,JUNGLE,Xin Zhao,48.57%,5
+Bel'Veth,JUNGLE,Jarvan IV,56.86%,6
+Bel'Veth,JUNGLE,Nocturne,62.63%,7
+Bel'Veth,JUNGLE,Kayn,51.11%,8
+Bel'Veth,JUNGLE,Zaahen,55.06%,9
+Bel'Veth,JUNGLE,Talon,54.76%,10
+Blitzcrank,SUPPORT,Thresh,52.22%,1
+Blitzcrank,SUPPORT,Nami,50.14%,2
+Blitzcrank,SUPPORT,Lulu,52.11%,3
+Blitzcrank,SUPPORT,Nautilus,51.01%,4
+Blitzcrank,SUPPORT,Leona,53.75%,5
+Blitzcrank,SUPPORT,Braum,47.92%,6
+Blitzcrank,SUPPORT,Bard,52.20%,7
+Blitzcrank,SUPPORT,Milio,51.72%,8
+Blitzcrank,SUPPORT,Morgana,52.80%,9
+Blitzcrank,SUPPORT,Seraphine,51.11%,10
+Brand,ADC,Caitlyn,54.49%,1
+Brand,ADC,Jinx,51.45%,2
+Brand,ADC,Jhin,52.99%,3
+Brand,ADC,Ezreal,49.12%,4
+Brand,ADC,Smolder,56.25%,5
+Brand,ADC,Miss Fortune,43.75%,6
+Brand,ADC,Vayne,51.47%,7
+Brand,ADC,Ashe,66.15%,8
+Brand,ADC,Sivir,55.74%,9
+Brand,ADC,Twitch,54.10%,10
+Brand,JUNGLE,Lee Sin,53.33%,1
+Brand,JUNGLE,Graves,41.27%,2
+Brand,JUNGLE,Viego,48.33%,3
+Brand,JUNGLE,Kha'Zix,37.74%,4
+Brand,JUNGLE,Xin Zhao,49.02%,5
+Brand,JUNGLE,Jarvan IV,48.65%,6
+Brand,JUNGLE,Shen,51.43%,7
+Brand,JUNGLE,Hecarim,58.06%,8
+Brand,JUNGLE,Kayn,43.33%,9
+Brand,JUNGLE,Lillia,63.33%,10
+Brand,MID,Ahri,48.06%,1
+Brand,MID,Yasuo,51.52%,2
+Brand,MID,Mel,64.41%,3
+Brand,MID,Viktor,46.15%,4
+Brand,MID,Sylas,54.90%,5
+Brand,MID,Katarina,54.17%,6
+Brand,MID,Syndra,45.83%,7
+Brand,MID,Akali,61.36%,8
+Brand,MID,Yone,45.45%,9
+Brand,MID,Veigar,47.62%,10
+Brand,SUPPORT,Nami,49.86%,1
+Brand,SUPPORT,Thresh,53.93%,2
+Brand,SUPPORT,Karma,49.45%,3
+Brand,SUPPORT,Lulu,46.61%,4
+Brand,SUPPORT,Nautilus,51.60%,5
+Brand,SUPPORT,Leona,51.92%,6
+Brand,SUPPORT,Milio,49.03%,7
+Brand,SUPPORT,Bard,49.67%,8
+Brand,SUPPORT,Lux,54.81%,9
+Brand,SUPPORT,Braum,53.13%,10
+Braum,SUPPORT,Nautilus,55.54%,1
+Braum,SUPPORT,Thresh,47.61%,2
+Braum,SUPPORT,Nami,50.68%,3
+Braum,SUPPORT,Karma,50.86%,4
+Braum,SUPPORT,Leona,51.91%,5
+Braum,SUPPORT,Lulu,49.21%,6
+Braum,SUPPORT,Milio,49.19%,7
+Braum,SUPPORT,Bard,48.10%,8
+Braum,SUPPORT,Rakan,47.22%,9
+Braum,SUPPORT,Pyke,47.61%,10
+Briar,JUNGLE,Lee Sin,53.42%,1
+Briar,JUNGLE,Viego,54.96%,2
+Briar,JUNGLE,Graves,50.12%,3
+Briar,JUNGLE,Kha'Zix,51.34%,4
+Briar,JUNGLE,Nocturne,47.54%,5
+Briar,JUNGLE,Xin Zhao,46.21%,6
+Briar,JUNGLE,Jarvan IV,53.02%,7
+Briar,JUNGLE,Zaahen,55.05%,8
+Briar,JUNGLE,Master Yi,52.66%,9
+Briar,JUNGLE,Lillia,55.12%,10
+Caitlyn,ADC,Ezreal,50.70%,1
+Caitlyn,ADC,Jhin,49.54%,2
+Caitlyn,ADC,Jinx,49.62%,3
+Caitlyn,ADC,Kai'Sa,48.07%,4
+Caitlyn,ADC,Ashe,47.82%,5
+Caitlyn,ADC,Smolder,48.73%,6
+Caitlyn,ADC,Miss Fortune,48.22%,7
+Caitlyn,ADC,Lucian,50.12%,8
+Caitlyn,ADC,Sivir,46.83%,9
+Caitlyn,ADC,Aphelios,51.27%,10
+Camille,TOP,Garen,53.78%,1
+Camille,TOP,Renekton,50.83%,2
+Camille,TOP,Jax,47.96%,3
+Camille,TOP,Aatrox,48.85%,4
+Camille,TOP,Zaahen,49.25%,5
+Camille,TOP,Ambessa,55.15%,6
+Camille,TOP,Darius,49.74%,7
+Camille,TOP,Fiora,55.81%,8
+Camille,TOP,Mordekaiser,44.51%,9
+Camille,TOP,Ornn,49.35%,10
+Cassiopeia,MID,Ahri,49.70%,1
+Cassiopeia,MID,Sylas,56.41%,2
+Cassiopeia,MID,Yasuo,51.04%,3
+Cassiopeia,MID,Ryze,60.44%,4
+Cassiopeia,MID,Syndra,45.88%,5
+Cassiopeia,MID,Viktor,45.45%,6
+Cassiopeia,MID,Katarina,43.24%,7
+Cassiopeia,MID,Malzahar,48.65%,8
+Cassiopeia,MID,Zed,42.65%,9
+Cassiopeia,MID,Xerath,48.39%,10
+Cassiopeia,TOP,Aatrox,51.52%,1
+Cassiopeia,TOP,Malphite,40.63%,2
+Cassiopeia,TOP,Garen,65.63%,3
+Cassiopeia,TOP,Zaahen,43.75%,4
+Cassiopeia,TOP,Jax,43.33%,5
+Cassiopeia,TOP,Mordekaiser,46.67%,6
+Cho'Gath,MID,Ahri,41.25%,1
+Cho'Gath,MID,Yasuo,56.72%,2
+Cho'Gath,MID,Zed,58.33%,3
+Cho'Gath,MID,Sylas,58.14%,4
+Cho'Gath,MID,Akali,63.89%,5
+Cho'Gath,MID,Syndra,54.29%,6
+Cho'Gath,MID,Yone,54.29%,7
+Cho'Gath,MID,Ryze,52.94%,8
+Cho'Gath,MID,Malzahar,52.94%,9
+Cho'Gath,MID,Mel,55.88%,10
+Cho'Gath,TOP,Garen,44.83%,1
+Cho'Gath,TOP,Sett,51.27%,2
+Cho'Gath,TOP,Mordekaiser,51.32%,3
+Cho'Gath,TOP,Malphite,51.33%,4
+Cho'Gath,TOP,Darius,48.67%,5
+Cho'Gath,TOP,Ornn,46.81%,6
+Cho'Gath,TOP,Gangplank,66.41%,7
+Cho'Gath,TOP,Dr. Mundo,50.78%,8
+Cho'Gath,TOP,Aatrox,52.34%,9
+Cho'Gath,TOP,Yorick,43.44%,10
+Corki,ADC,Kai'Sa,51.58%,1
+Corki,ADC,Ezreal,52.15%,2
+Corki,ADC,Jinx,47.79%,3
+Corki,ADC,Caitlyn,45.22%,4
+Corki,ADC,Jhin,46.68%,5
+Corki,ADC,Yunara,50.47%,6
+Corki,ADC,Smolder,48.77%,7
+Corki,ADC,Lucian,47.89%,8
+Corki,ADC,Miss Fortune,48.90%,9
+Corki,ADC,Ashe,49.42%,10
+Darius,JUNGLE,Viego,51.26%,1
+Darius,JUNGLE,Lee Sin,48.08%,2
+Darius,JUNGLE,Graves,53.52%,3
+Darius,JUNGLE,Xin Zhao,55.93%,4
+Darius,JUNGLE,Kayn,42.11%,5
+Darius,JUNGLE,Diana,55.36%,6
+Darius,JUNGLE,Nocturne,46.30%,7
+Darius,JUNGLE,Jarvan IV,39.22%,8
+Darius,JUNGLE,Kha'Zix,53.06%,9
+Darius,JUNGLE,Briar,36.96%,10
+Darius,TOP,Garen,51.59%,1
+Darius,TOP,Aatrox,44.23%,2
+Darius,TOP,Sett,48.79%,3
+Darius,TOP,Mordekaiser,49.45%,4
+Darius,TOP,Renekton,49.86%,5
+Darius,TOP,Ornn,49.56%,6
+Darius,TOP,Jax,49.25%,7
+Darius,TOP,Zaahen,51.21%,8
+Darius,TOP,Gangplank,47.76%,9
+Darius,TOP,Sion,53.79%,10
+Diana,JUNGLE,Viego,45.10%,1
+Diana,JUNGLE,Lee Sin,50.22%,2
+Diana,JUNGLE,Graves,48.82%,3
+Diana,JUNGLE,Kha'Zix,48.48%,4
+Diana,JUNGLE,Nocturne,43.89%,5
+Diana,JUNGLE,Xin Zhao,46.40%,6
+Diana,JUNGLE,Kayn,44.89%,7
+Diana,JUNGLE,Jarvan IV,53.18%,8
+Diana,JUNGLE,Shaco,52.79%,9
+Diana,JUNGLE,Vi,48.22%,10
+Diana,MID,Ahri,49.08%,1
+Diana,MID,Katarina,52.06%,2
+Diana,MID,Zed,57.54%,3
+Diana,MID,Sylas,54.06%,4
+Diana,MID,Yasuo,48.96%,5
+Diana,MID,Akali,46.49%,6
+Diana,MID,Viktor,44.93%,7
+Diana,MID,Malzahar,53.46%,8
+Diana,MID,Galio,45.93%,9
+Diana,MID,Yone,52.53%,10
+Dr. Mundo,JUNGLE,Viego,50.58%,1
+Dr. Mundo,JUNGLE,Graves,48.97%,2
+Dr. Mundo,JUNGLE,Kha'Zix,47.84%,3
+Dr. Mundo,JUNGLE,Lee Sin,53.18%,4
+Dr. Mundo,JUNGLE,Jarvan IV,46.60%,5
+Dr. Mundo,JUNGLE,Lillia,44.88%,6
+Dr. Mundo,JUNGLE,Kayn,47.67%,7
+Dr. Mundo,JUNGLE,Nocturne,48.17%,8
+Dr. Mundo,JUNGLE,Ekko,52.78%,9
+Dr. Mundo,JUNGLE,Rengar,50.28%,10
+Dr. Mundo,TOP,Malphite,55.23%,1
+Dr. Mundo,TOP,Garen,49.07%,2
+Dr. Mundo,TOP,Jax,54.94%,3
+Dr. Mundo,TOP,Darius,52.80%,4
+Dr. Mundo,TOP,Aatrox,45.53%,5
+Dr. Mundo,TOP,Gwen,45.96%,6
+Dr. Mundo,TOP,Ornn,46.05%,7
+Dr. Mundo,TOP,Yone,45.05%,8
+Dr. Mundo,TOP,Sion,49.25%,9
+Dr. Mundo,TOP,Renekton,54.87%,10
+Draven,ADC,Ezreal,51.70%,1
+Draven,ADC,Caitlyn,49.13%,2
+Draven,ADC,Kai'Sa,54.90%,3
+Draven,ADC,Jhin,49.23%,4
+Draven,ADC,Jinx,44.76%,5
+Draven,ADC,Smolder,50.51%,6
+Draven,ADC,Miss Fortune,43.54%,7
+Draven,ADC,Ashe,52.15%,8
+Draven,ADC,Lucian,47.77%,9
+Draven,ADC,Twitch,53.31%,10
+Ekko,JUNGLE,Lee Sin,52.17%,1
+Ekko,JUNGLE,Viego,52.08%,2
+Ekko,JUNGLE,Graves,52.23%,3
+Ekko,JUNGLE,Kha'Zix,52.02%,4
+Ekko,JUNGLE,Xin Zhao,47.81%,5
+Ekko,JUNGLE,Kayn,47.88%,6
+Ekko,JUNGLE,Jarvan IV,43.43%,7
+Ekko,JUNGLE,Sylas,51.29%,8
+Ekko,JUNGLE,Nocturne,51.95%,9
+Ekko,JUNGLE,Zaahen,51.92%,10
+Ekko,MID,Ahri,51.22%,1
+Ekko,MID,Yasuo,48.57%,2
+Ekko,MID,Zed,51.88%,3
+Ekko,MID,Sylas,47.79%,4
+Ekko,MID,Katarina,54.64%,5
+Ekko,MID,Viktor,50.52%,6
+Ekko,MID,Malzahar,55.29%,7
+Ekko,MID,Twisted Fate,42.68%,8
+Ekko,MID,Ryze,44.52%,9
+Ekko,MID,Mel,50.99%,10
+Elise,JUNGLE,Lee Sin,52.03%,1
+Elise,JUNGLE,Viego,53.31%,2
+Elise,JUNGLE,Kha'Zix,54.86%,3
+Elise,JUNGLE,Graves,60.31%,4
+Elise,JUNGLE,Nocturne,45.70%,5
+Elise,JUNGLE,Jarvan IV,51.20%,6
+Elise,JUNGLE,Xin Zhao,45.68%,7
+Elise,JUNGLE,Vi,45.52%,8
+Elise,JUNGLE,Lillia,53.03%,9
+Elise,JUNGLE,Ekko,54.84%,10
+Elise,SUPPORT,Nami,50.31%,1
+Elise,SUPPORT,Karma,51.94%,2
+Elise,SUPPORT,Thresh,53.15%,3
+Elise,SUPPORT,Lulu,53.70%,4
+Elise,SUPPORT,Nautilus,59.57%,5
+Elise,SUPPORT,Bard,53.49%,6
+Elise,SUPPORT,Pyke,52.38%,7
+Elise,SUPPORT,Leona,54.17%,8
+Elise,SUPPORT,Braum,45.90%,9
+Elise,SUPPORT,Milio,52.54%,10
+Evelynn,JUNGLE,Lee Sin,57.09%,1
+Evelynn,JUNGLE,Graves,49.36%,2
+Evelynn,JUNGLE,Kha'Zix,47.17%,3
+Evelynn,JUNGLE,Nocturne,55.92%,4
+Evelynn,JUNGLE,Xin Zhao,50.75%,5
+Evelynn,JUNGLE,Jarvan IV,55.91%,6
+Evelynn,JUNGLE,Master Yi,47.97%,7
+Evelynn,JUNGLE,Zaahen,51.75%,8
+Evelynn,JUNGLE,Hecarim,43.75%,9
+Evelynn,JUNGLE,Vi,58.04%,10
+Ezreal,ADC,Kai'Sa,47.41%,1
+Ezreal,ADC,Caitlyn,49.30%,2
+Ezreal,ADC,Jhin,47.08%,3
+Ezreal,ADC,Jinx,49.09%,4
+Ezreal,ADC,Lucian,50.53%,5
+Ezreal,ADC,Yunara,51.28%,6
+Ezreal,ADC,Ashe,48.34%,7
+Ezreal,ADC,Sivir,47.15%,8
+Ezreal,ADC,Smolder,45.93%,9
+Ezreal,ADC,Miss Fortune,47.70%,10
+Fiddlesticks,JUNGLE,Viego,58.78%,1
+Fiddlesticks,JUNGLE,Kha'Zix,55.11%,2
+Fiddlesticks,JUNGLE,Lee Sin,44.33%,3
+Fiddlesticks,JUNGLE,Graves,50.52%,4
+Fiddlesticks,JUNGLE,Xin Zhao,47.18%,5
+Fiddlesticks,JUNGLE,Jarvan IV,49.29%,6
+Fiddlesticks,JUNGLE,Kayn,51.16%,7
+Fiddlesticks,JUNGLE,Lillia,50.82%,8
+Fiddlesticks,JUNGLE,Ekko,51.72%,9
+Fiddlesticks,JUNGLE,Briar,44.35%,10
+Fiddlesticks,SUPPORT,Nami,50.55%,1
+Fiddlesticks,SUPPORT,Lulu,51.16%,2
+Fiddlesticks,SUPPORT,Thresh,51.25%,3
+Fiddlesticks,SUPPORT,Karma,55.84%,4
+Fiddlesticks,SUPPORT,Nautilus,45.59%,5
+Fiddlesticks,SUPPORT,Milio,39.58%,6
+Fiddlesticks,SUPPORT,Bard,37.21%,7
+Fiddlesticks,SUPPORT,Leona,30.95%,8
+Fiddlesticks,SUPPORT,Alistar,48.72%,9
+Fiddlesticks,SUPPORT,Yuumi,56.41%,10
+Fiora,TOP,Aatrox,54.12%,1
+Fiora,TOP,Garen,50.94%,2
+Fiora,TOP,Jax,52.65%,3
+Fiora,TOP,Malphite,43.62%,4
+Fiora,TOP,Zaahen,45.65%,5
+Fiora,TOP,Darius,50.91%,6
+Fiora,TOP,Ornn,50.68%,7
+Fiora,TOP,Mordekaiser,56.06%,8
+Fiora,TOP,Renekton,44.39%,9
+Fiora,TOP,Irelia,55.15%,10
+Fizz,JUNGLE,Lee Sin,48.93%,1
+Fizz,JUNGLE,Graves,48.29%,2
+Fizz,JUNGLE,Viego,51.85%,3
+Fizz,JUNGLE,Kha'Zix,48.56%,4
+Fizz,JUNGLE,Xin Zhao,46.03%,5
+Fizz,JUNGLE,Vi,40.38%,6
+Fizz,JUNGLE,Nocturne,54.29%,7
+Fizz,JUNGLE,Lillia,55.75%,8
+Fizz,JUNGLE,Naafiri,42.99%,9
+Fizz,JUNGLE,Zaahen,49.02%,10
+Fizz,MID,Ahri,45.22%,1
+Fizz,MID,Yasuo,52.96%,2
+Fizz,MID,Zed,46.51%,3
+Fizz,MID,Katarina,55.29%,4
+Fizz,MID,Viktor,49.12%,5
+Fizz,MID,Syndra,54.80%,6
+Fizz,MID,Sylas,51.81%,7
+Fizz,MID,Galio,49.79%,8
+Fizz,MID,Mel,55.24%,9
+Fizz,MID,Akali,49.51%,10
+Galio,MID,Ahri,43.60%,1
+Galio,MID,Akali,53.33%,2
+Galio,MID,Katarina,52.59%,3
+Galio,MID,Sylas,57.27%,4
+Galio,MID,Twisted Fate,50.90%,5
+Galio,MID,Viktor,48.66%,6
+Galio,MID,Yasuo,46.85%,7
+Galio,MID,Fizz,50.21%,8
+Galio,MID,Aurora,54.38%,9
+Galio,MID,Zed,47.22%,10
+Galio,SUPPORT,Nautilus,56.25%,1
+Galio,SUPPORT,Nami,49.18%,2
+Galio,SUPPORT,Thresh,47.54%,3
+Galio,SUPPORT,Karma,45.28%,4
+Galio,SUPPORT,Lulu,47.73%,5
+Galio,SUPPORT,Leona,37.84%,6
+Galio,SUPPORT,Bard,61.11%,7
+Galio,SUPPORT,Blitzcrank,71.88%,8
+Gangplank,TOP,Aatrox,49.32%,1
+Gangplank,TOP,Garen,52.29%,2
+Gangplank,TOP,Irelia,50.18%,3
+Gangplank,TOP,Malphite,45.25%,4
+Gangplank,TOP,Darius,52.85%,5
+Gangplank,TOP,Zaahen,52.09%,6
+Gangplank,TOP,Sion,44.36%,7
+Gangplank,TOP,Mordekaiser,43.55%,8
+Gangplank,TOP,Ornn,49.36%,9
+Gangplank,TOP,Jayce,51.82%,10
+Garen,TOP,Jax,55.42%,1
+Garen,TOP,Darius,48.24%,2
+Garen,TOP,Sett,54.17%,3
+Garen,TOP,Mordekaiser,49.45%,4
+Garen,TOP,Nasus,50.78%,5
+Garen,TOP,Aatrox,48.87%,6
+Garen,TOP,Camille,46.71%,7
+Garen,TOP,Renekton,55.37%,8
+Garen,TOP,Zaahen,51.67%,9
+Garen,TOP,Ornn,52.62%,10
+Gnar,TOP,Malphite,46.70%,1
+Gnar,TOP,Aatrox,52.05%,2
+Gnar,TOP,Garen,48.84%,3
+Gnar,TOP,Renekton,49.45%,4
+Gnar,TOP,Irelia,49.25%,5
+Gnar,TOP,Ornn,46.85%,6
+Gnar,TOP,K'Sante,52.76%,7
+Gnar,TOP,Zaahen,51.65%,8
+Gnar,TOP,Jayce,52.66%,9
+Gnar,TOP,Yone,52.24%,10
+Gragas,JUNGLE,Lee Sin,53.13%,1
+Gragas,JUNGLE,Viego,45.45%,2
+Gragas,JUNGLE,Graves,51.47%,3
+Gragas,JUNGLE,Vi,40.54%,4
+Gragas,JUNGLE,Lillia,48.65%,5
+Gragas,JUNGLE,Master Yi,48.57%,6
+Gragas,JUNGLE,Nocturne,44.12%,7
+Gragas,JUNGLE,Kha'Zix,64.71%,8
+Gragas,JUNGLE,Jarvan IV,54.84%,9
+Gragas,JUNGLE,Diana,51.61%,10
+Gragas,TOP,Jax,44.87%,1
+Gragas,TOP,Garen,48.15%,2
+Gragas,TOP,Aatrox,50.97%,3
+Gragas,TOP,Zaahen,45.16%,4
+Gragas,TOP,Malphite,46.22%,5
+Gragas,TOP,Jayce,52.59%,6
+Gragas,TOP,Renekton,57.89%,7
+Gragas,TOP,Yone,47.79%,8
+Gragas,TOP,Dr. Mundo,56.88%,9
+Gragas,TOP,Ambessa,54.13%,10
+Graves,JUNGLE,Lee Sin,50.26%,1
+Graves,JUNGLE,Viego,49.77%,2
+Graves,JUNGLE,Kha'Zix,52.25%,3
+Graves,JUNGLE,Xin Zhao,48.39%,4
+Graves,JUNGLE,Jarvan IV,51.43%,5
+Graves,JUNGLE,Vi,53.11%,6
+Graves,JUNGLE,Nocturne,49.26%,7
+Graves,JUNGLE,Zaahen,53.75%,8
+Graves,JUNGLE,Master Yi,46.30%,9
+Graves,JUNGLE,Ekko,47.77%,10
+Gwen,JUNGLE,Graves,48.85%,1
+Gwen,JUNGLE,Viego,48.09%,2
+Gwen,JUNGLE,Lee Sin,49.61%,3
+Gwen,JUNGLE,Dr. Mundo,48.62%,4
+Gwen,JUNGLE,Kha'Zix,47.71%,5
+Gwen,JUNGLE,Xin Zhao,49.41%,6
+Gwen,JUNGLE,Nocturne,46.43%,7
+Gwen,JUNGLE,Jarvan IV,46.48%,8
+Gwen,JUNGLE,Lillia,47.89%,9
+Gwen,JUNGLE,Hecarim,43.75%,10
+Gwen,TOP,Sion,48.91%,1
+Gwen,TOP,Ornn,45.97%,2
+Gwen,TOP,Dr. Mundo,53.42%,3
+Gwen,TOP,Aatrox,49.26%,4
+Gwen,TOP,Garen,46.47%,5
+Gwen,TOP,Jax,48.81%,6
+Gwen,TOP,K'Sante,57.32%,7
+Gwen,TOP,Malphite,54.97%,8
+Gwen,TOP,Shen,47.37%,9
+Gwen,TOP,Renekton,55.81%,10
+Hecarim,JUNGLE,Viego,49.45%,1
+Hecarim,JUNGLE,Lee Sin,52.95%,2
+Hecarim,JUNGLE,Graves,50.75%,3
+Hecarim,JUNGLE,Kha'Zix,55.96%,4
+Hecarim,JUNGLE,Nocturne,45.74%,5
+Hecarim,JUNGLE,Xin Zhao,52.92%,6
+Hecarim,JUNGLE,Jarvan IV,48.73%,7
+Hecarim,JUNGLE,Zaahen,46.12%,8
+Hecarim,JUNGLE,Talon,49.53%,9
+Hecarim,JUNGLE,Sylas,46.45%,10
+Heimerdinger,TOP,Mordekaiser,57.38%,1
+Heimerdinger,TOP,Sion,41.38%,2
+Heimerdinger,TOP,Aatrox,54.39%,3
+Heimerdinger,TOP,Darius,51.79%,4
+Heimerdinger,TOP,Garen,53.85%,5
+Heimerdinger,TOP,Dr. Mundo,37.25%,6
+Heimerdinger,TOP,Irelia,41.67%,7
+Heimerdinger,TOP,Gnar,36.36%,8
+Heimerdinger,TOP,Yasuo,41.86%,9
+Heimerdinger,TOP,Yone,39.53%,10
+Hwei,MID,Ahri,49.81%,1
+Hwei,MID,Viktor,48.08%,2
+Hwei,MID,Xerath,48.75%,3
+Hwei,MID,Mel,48.89%,4
+Hwei,MID,Syndra,53.36%,5
+Hwei,MID,Yasuo,45.87%,6
+Hwei,MID,Malzahar,51.66%,7
+Hwei,MID,Akali,45.73%,8
+Hwei,MID,Zed,48.68%,9
+Hwei,MID,Twisted Fate,44.26%,10
+Illaoi,TOP,Aatrox,51.83%,1
+Illaoi,TOP,Garen,52.20%,2
+Illaoi,TOP,Mordekaiser,50.66%,3
+Illaoi,TOP,Renekton,51.75%,4
+Illaoi,TOP,Darius,58.65%,5
+Illaoi,TOP,Zaahen,48.41%,6
+Illaoi,TOP,Ornn,48.80%,7
+Illaoi,TOP,Sion,58.49%,8
+Illaoi,TOP,Jax,47.17%,9
+Illaoi,TOP,Gnar,42.86%,10
+Irelia,MID,Ahri,52.48%,1
+Irelia,MID,Yasuo,48.70%,2
+Irelia,MID,Zed,50.24%,3
+Irelia,MID,Viktor,44.86%,4
+Irelia,MID,Sylas,44.24%,5
+Irelia,MID,Akali,49.38%,6
+Irelia,MID,Malzahar,46.53%,7
+Irelia,MID,Katarina,45.99%,8
+Irelia,MID,Mel,49.62%,9
+Irelia,MID,Xerath,42.40%,10
+Irelia,TOP,Aatrox,57.05%,1
+Irelia,TOP,Jayce,54.44%,2
+Irelia,TOP,Malphite,46.15%,3
+Irelia,TOP,Garen,45.42%,4
+Irelia,TOP,Jax,45.58%,5
+Irelia,TOP,Sett,44.25%,6
+Irelia,TOP,Gangplank,48.76%,7
+Irelia,TOP,Gnar,50.55%,8
+Irelia,TOP,Renekton,48.40%,9
+Irelia,TOP,Yone,57.61%,10
+Ivern,JUNGLE,Lee Sin,51.02%,1
+Ivern,JUNGLE,Viego,60.18%,2
+Ivern,JUNGLE,Kha'Zix,49.53%,3
+Ivern,JUNGLE,Graves,53.49%,4
+Ivern,JUNGLE,Xin Zhao,52.46%,5
+Ivern,JUNGLE,Hecarim,37.29%,6
+Ivern,JUNGLE,Lillia,66.10%,7
+Ivern,JUNGLE,Diana,41.07%,8
+Ivern,JUNGLE,Kayn,43.40%,9
+Ivern,JUNGLE,Briar,49.06%,10
+Janna,SUPPORT,Nami,48.28%,1
+Janna,SUPPORT,Thresh,47.67%,2
+Janna,SUPPORT,Lulu,51.31%,3
+Janna,SUPPORT,Karma,51.39%,4
+Janna,SUPPORT,Nautilus,52.79%,5
+Janna,SUPPORT,Milio,53.61%,6
+Janna,SUPPORT,Bard,54.14%,7
+Janna,SUPPORT,Sona,55.71%,8
+Janna,SUPPORT,Senna,56.86%,9
+Janna,SUPPORT,Braum,46.80%,10
+Jarvan IV,JUNGLE,Lee Sin,50.57%,1
+Jarvan IV,JUNGLE,Graves,48.57%,2
+Jarvan IV,JUNGLE,Viego,52.27%,3
+Jarvan IV,JUNGLE,Kha'Zix,51.69%,4
+Jarvan IV,JUNGLE,Xin Zhao,46.94%,5
+Jarvan IV,JUNGLE,Vi,51.27%,6
+Jarvan IV,JUNGLE,Zaahen,50.72%,7
+Jarvan IV,JUNGLE,Nocturne,48.55%,8
+Jarvan IV,JUNGLE,Sylas,53.96%,9
+Jarvan IV,JUNGLE,Lillia,58.46%,10
+Jax,JUNGLE,Viego,48.50%,1
+Jax,JUNGLE,Graves,49.56%,2
+Jax,JUNGLE,Lee Sin,45.69%,3
+Jax,JUNGLE,Master Yi,44.86%,4
+Jax,JUNGLE,Xin Zhao,52.56%,5
+Jax,JUNGLE,Briar,54.73%,6
+Jax,JUNGLE,Kha'Zix,46.72%,7
+Jax,JUNGLE,Nocturne,52.94%,8
+Jax,JUNGLE,Zaahen,53.70%,9
+Jax,JUNGLE,Kayn,51.96%,10
+Jax,TOP,Garen,44.44%,1
+Jax,TOP,Zaahen,48.70%,2
+Jax,TOP,Yone,52.69%,3
+Jax,TOP,Renekton,51.09%,4
+Jax,TOP,Aatrox,47.12%,5
+Jax,TOP,Darius,50.30%,6
+Jax,TOP,Malphite,50.68%,7
+Jax,TOP,Irelia,54.27%,8
+Jax,TOP,Mordekaiser,52.76%,9
+Jax,TOP,Gragas,55.34%,10
+Jayce,JUNGLE,Lee Sin,50.15%,1
+Jayce,JUNGLE,Graves,48.68%,2
+Jayce,JUNGLE,Viego,53.62%,3
+Jayce,JUNGLE,Kha'Zix,45.91%,4
+Jayce,JUNGLE,Jarvan IV,44.44%,5
+Jayce,JUNGLE,Vi,47.01%,6
+Jayce,JUNGLE,Xin Zhao,40.68%,7
+Jayce,JUNGLE,Nocturne,47.96%,8
+Jayce,JUNGLE,Lillia,40.45%,9
+Jayce,JUNGLE,Naafiri,45.35%,10
+Jayce,MID,Ahri,46.53%,1
+Jayce,MID,Sylas,54.72%,2
+Jayce,MID,Yone,60.38%,3
+Jayce,MID,Ryze,53.85%,4
+Jayce,MID,Katarina,48.84%,5
+Jayce,MID,Orianna,61.90%,6
+Jayce,MID,Twisted Fate,48.72%,7
+Jayce,MID,Kassadin,46.15%,8
+Jayce,MID,Viktor,38.24%,9
+Jayce,MID,Galio,45.45%,10
+Jayce,TOP,Malphite,45.86%,1
+Jayce,TOP,Aatrox,49.30%,2
+Jayce,TOP,Irelia,45.53%,3
+Jayce,TOP,Ornn,38.10%,4
+Jayce,TOP,Ambessa,52.99%,5
+Jayce,TOP,Sion,51.48%,6
+Jayce,TOP,Jax,51.06%,7
+Jayce,TOP,Gangplank,48.40%,8
+Jayce,TOP,Zaahen,53.88%,9
+Jayce,TOP,Gnar,47.87%,10
+Jhin,ADC,Ezreal,52.88%,1
+Jhin,ADC,Caitlyn,50.46%,2
+Jhin,ADC,Kai'Sa,49.42%,3
+Jhin,ADC,Jinx,48.29%,4
+Jhin,ADC,Smolder,52.94%,5
+Jhin,ADC,Ashe,46.72%,6
+Jhin,ADC,Yunara,49.83%,7
+Jhin,ADC,Miss Fortune,48.75%,8
+Jhin,ADC,Lucian,51.07%,9
+Jhin,ADC,Sivir,52.39%,10
+Jinx,ADC,Caitlyn,50.38%,1
+Jinx,ADC,Kai'Sa,53.85%,2
+Jinx,ADC,Ezreal,50.91%,3
+Jinx,ADC,Jhin,51.71%,4
+Jinx,ADC,Yunara,51.10%,5
+Jinx,ADC,Ashe,49.88%,6
+Jinx,ADC,Smolder,53.21%,7
+Jinx,ADC,Aphelios,51.93%,8
+Jinx,ADC,Lucian,50.27%,9
+Jinx,ADC,Miss Fortune,50.64%,10
+K'Sante,TOP,Garen,37.28%,1
+K'Sante,TOP,Aatrox,51.52%,2
+K'Sante,TOP,Darius,47.08%,3
+K'Sante,TOP,Gnar,47.81%,4
+K'Sante,TOP,Jax,50.61%,5
+K'Sante,TOP,Renekton,49.35%,6
+K'Sante,TOP,Zaahen,44.78%,7
+K'Sante,TOP,Mordekaiser,48.43%,8
+K'Sante,TOP,Yone,47.51%,9
+K'Sante,TOP,Ornn,45.24%,10
+Kai'Sa,ADC,Ezreal,52.59%,1
+Kai'Sa,ADC,Jinx,46.15%,2
+Kai'Sa,ADC,Jhin,50.58%,3
+Kai'Sa,ADC,Caitlyn,51.93%,4
+Kai'Sa,ADC,Yunara,48.48%,5
+Kai'Sa,ADC,Lucian,50.64%,6
+Kai'Sa,ADC,Xayah,44.53%,7
+Kai'Sa,ADC,Smolder,44.46%,8
+Kai'Sa,ADC,Ashe,46.29%,9
+Kai'Sa,ADC,Sivir,45.98%,10
+Kalista,ADC,Ezreal,50.56%,1
+Kalista,ADC,Kai'Sa,50.33%,2
+Kalista,ADC,Jinx,46.56%,3
+Kalista,ADC,Ashe,50.47%,4
+Kalista,ADC,Caitlyn,47.12%,5
+Kalista,ADC,Smolder,46.74%,6
+Kalista,ADC,Jhin,44.94%,7
+Kalista,ADC,Yunara,43.37%,8
+Kalista,ADC,Lucian,46.05%,9
+Kalista,ADC,Vayne,50.82%,10
+Karma,SUPPORT,Nami,48.66%,1
+Karma,SUPPORT,Lulu,49.54%,2
+Karma,SUPPORT,Thresh,47.56%,3
+Karma,SUPPORT,Nautilus,49.36%,4
+Karma,SUPPORT,Bard,46.86%,5
+Karma,SUPPORT,Milio,51.47%,6
+Karma,SUPPORT,Seraphine,46.59%,7
+Karma,SUPPORT,Braum,49.14%,8
+Karma,SUPPORT,Senna,52.23%,9
+Karma,SUPPORT,Pyke,50.29%,10
+Karthus,JUNGLE,Lee Sin,48.28%,1
+Karthus,JUNGLE,Viego,55.33%,2
+Karthus,JUNGLE,Kha'Zix,56.08%,3
+Karthus,JUNGLE,Graves,53.52%,4
+Karthus,JUNGLE,Xin Zhao,53.47%,5
+Karthus,JUNGLE,Jarvan IV,46.81%,6
+Karthus,JUNGLE,Nocturne,46.59%,7
+Karthus,JUNGLE,Kayn,51.52%,8
+Karthus,JUNGLE,Vi,57.58%,9
+Karthus,JUNGLE,Briar,43.08%,10
+Kassadin,MID,Ahri,48.35%,1
+Kassadin,MID,Yasuo,52.05%,2
+Kassadin,MID,Katarina,49.47%,3
+Kassadin,MID,Yone,45.88%,4
+Kassadin,MID,Viktor,46.67%,5
+Kassadin,MID,Malzahar,51.98%,6
+Kassadin,MID,Akali,44.64%,7
+Kassadin,MID,Sylas,49.76%,8
+Kassadin,MID,Mel,53.19%,9
+Kassadin,MID,Zed,45.86%,10
+Katarina,MID,Ahri,50.70%,1
+Katarina,MID,Yasuo,49.56%,2
+Katarina,MID,Zed,47.31%,3
+Katarina,MID,Akali,45.67%,4
+Katarina,MID,Viktor,47.27%,5
+Katarina,MID,Sylas,50.36%,6
+Katarina,MID,Galio,47.41%,7
+Katarina,MID,Malzahar,50.37%,8
+Katarina,MID,Twisted Fate,53.57%,9
+Katarina,MID,Yone,52.68%,10
+Kayle,MID,Ahri,52.21%,1
+Kayle,MID,Yasuo,47.89%,2
+Kayle,MID,Sylas,40.63%,3
+Kayle,MID,Viktor,46.94%,4
+Kayle,MID,Syndra,40.43%,5
+Kayle,MID,Malzahar,56.52%,6
+Kayle,MID,Zed,45.65%,7
+Kayle,MID,Veigar,64.10%,8
+Kayle,MID,Yone,60.53%,9
+Kayle,MID,Anivia,63.89%,10
+Kayle,TOP,Garen,55.59%,1
+Kayle,TOP,Jax,52.73%,2
+Kayle,TOP,Ornn,48.33%,3
+Kayle,TOP,Aatrox,50.75%,4
+Kayle,TOP,Nasus,52.02%,5
+Kayle,TOP,Darius,51.28%,6
+Kayle,TOP,Malphite,41.88%,7
+Kayle,TOP,Gangplank,50.29%,8
+Kayle,TOP,Singed,48.78%,9
+Kayle,TOP,Mordekaiser,52.76%,10
+Kayn,JUNGLE,Viego,50.26%,1
+Kayn,JUNGLE,Lee Sin,48.56%,2
+Kayn,JUNGLE,Graves,50.11%,3
+Kayn,JUNGLE,Kha'Zix,48.28%,4
+Kayn,JUNGLE,Nocturne,46.98%,5
+Kayn,JUNGLE,Ekko,52.12%,6
+Kayn,JUNGLE,Zaahen,50.78%,7
+Kayn,JUNGLE,Xin Zhao,53.85%,8
+Kayn,JUNGLE,Diana,55.11%,9
+Kayn,JUNGLE,Jarvan IV,50.45%,10
+Kennen,TOP,Malphite,46.88%,1
+Kennen,TOP,Aatrox,48.21%,2
+Kennen,TOP,Darius,52.69%,3
+Kennen,TOP,Jax,57.06%,4
+Kennen,TOP,Garen,54.23%,5
+Kennen,TOP,Gnar,48.59%,6
+Kennen,TOP,Jayce,52.59%,7
+Kennen,TOP,Dr. Mundo,43.08%,8
+Kennen,TOP,Irelia,40.63%,9
+Kennen,TOP,Renekton,56.52%,10
+Kha'Zix,JUNGLE,Lee Sin,46.20%,1
+Kha'Zix,JUNGLE,Graves,47.75%,2
+Kha'Zix,JUNGLE,Viego,51.39%,3
+Kha'Zix,JUNGLE,Xin Zhao,46.92%,4
+Kha'Zix,JUNGLE,Nocturne,48.73%,5
+Kha'Zix,JUNGLE,Naafiri,46.82%,6
+Kha'Zix,JUNGLE,Vi,47.10%,7
+Kha'Zix,JUNGLE,Talon,49.58%,8
+Kha'Zix,JUNGLE,Jarvan IV,48.31%,9
+Kha'Zix,JUNGLE,Master Yi,55.83%,10
+Kindred,JUNGLE,Graves,55.32%,1
+Kindred,JUNGLE,Lee Sin,51.83%,2
+Kindred,JUNGLE,Viego,47.58%,3
+Kindred,JUNGLE,Kha'Zix,47.56%,4
+Kindred,JUNGLE,Jarvan IV,57.43%,5
+Kindred,JUNGLE,Xin Zhao,47.95%,6
+Kindred,JUNGLE,Nocturne,51.35%,7
+Kindred,JUNGLE,Ekko,46.23%,8
+Kindred,JUNGLE,Zaahen,53.47%,9
+Kindred,JUNGLE,Kayn,45.92%,10
+Kled,TOP,Aatrox,48.25%,1
+Kled,TOP,Jax,55.04%,2
+Kled,TOP,Gangplank,45.16%,3
+Kled,TOP,Zaahen,52.85%,4
+Kled,TOP,Darius,48.28%,5
+Kled,TOP,Ornn,44.33%,6
+Kled,TOP,Mordekaiser,53.13%,7
+Kled,TOP,Malphite,48.94%,8
+Kled,TOP,Renekton,54.35%,9
+Kled,TOP,K'Sante,53.93%,10
+Kog'Maw,ADC,Jinx,51.56%,1
+Kog'Maw,ADC,Caitlyn,51.88%,2
+Kog'Maw,ADC,Ezreal,55.37%,3
+Kog'Maw,ADC,Kai'Sa,53.75%,4
+Kog'Maw,ADC,Jhin,50.22%,5
+Kog'Maw,ADC,Smolder,46.74%,6
+Kog'Maw,ADC,Ashe,45.63%,7
+Kog'Maw,ADC,Yunara,55.07%,8
+Kog'Maw,ADC,Twitch,55.20%,9
+Kog'Maw,ADC,Aphelios,55.08%,10
+Kog'Maw,MID,Ahri,49.60%,1
+Kog'Maw,MID,Viktor,43.10%,2
+Kog'Maw,MID,Yasuo,58.18%,3
+Kog'Maw,MID,Zed,62.22%,4
+Kog'Maw,MID,Katarina,38.10%,5
+Kog'Maw,MID,Malzahar,47.62%,6
+Kog'Maw,MID,Mel,53.66%,7
+Kog'Maw,MID,Orianna,37.84%,8
+Kog'Maw,MID,Twisted Fate,47.06%,9
+Kog'Maw,MID,Xerath,44.12%,10
+LeBlanc,MID,Ahri,49.07%,1
+LeBlanc,MID,Viktor,50.16%,2
+LeBlanc,MID,Zed,48.13%,3
+LeBlanc,MID,Akali,51.36%,4
+LeBlanc,MID,Yasuo,55.75%,5
+LeBlanc,MID,Malzahar,41.67%,6
+LeBlanc,MID,Sylas,43.51%,7
+LeBlanc,MID,Katarina,50.97%,8
+LeBlanc,MID,Vex,43.58%,9
+LeBlanc,MID,Twisted Fate,45.45%,10
+LeBlanc,SUPPORT,Karma,46.81%,1
+LeBlanc,SUPPORT,Thresh,50.65%,2
+LeBlanc,SUPPORT,Nautilus,48.57%,3
+LeBlanc,SUPPORT,Lulu,42.03%,4
+LeBlanc,SUPPORT,Nami,43.08%,5
+LeBlanc,SUPPORT,Pyke,44.19%,6
+LeBlanc,SUPPORT,Bard,33.33%,7
+LeBlanc,SUPPORT,Morgana,61.11%,8
+LeBlanc,SUPPORT,Yuumi,58.82%,9
+LeBlanc,SUPPORT,Rakan,44.12%,10
+Lee Sin,JUNGLE,Graves,49.74%,1
+Lee Sin,JUNGLE,Viego,52.35%,2
+Lee Sin,JUNGLE,Vi,47.30%,3
+Lee Sin,JUNGLE,Kha'Zix,53.80%,4
+Lee Sin,JUNGLE,Xin Zhao,48.71%,5
+Lee Sin,JUNGLE,Jarvan IV,49.43%,6
+Lee Sin,JUNGLE,Zaahen,48.30%,7
+Lee Sin,JUNGLE,Nocturne,50.41%,8
+Lee Sin,JUNGLE,Sylas,51.95%,9
+Lee Sin,JUNGLE,Lillia,47.99%,10
+Leona,SUPPORT,Thresh,50.72%,1
+Leona,SUPPORT,Nami,48.20%,2
+Leona,SUPPORT,Nautilus,55.84%,3
+Leona,SUPPORT,Karma,48.53%,4
+Leona,SUPPORT,Lulu,51.65%,5
+Leona,SUPPORT,Braum,48.09%,6
+Leona,SUPPORT,Alistar,47.81%,7
+Leona,SUPPORT,Milio,49.45%,8
+Leona,SUPPORT,Morgana,44.52%,9
+Leona,SUPPORT,Pyke,49.89%,10
+Lillia,JUNGLE,Lee Sin,52.01%,1
+Lillia,JUNGLE,Viego,48.41%,2
+Lillia,JUNGLE,Graves,48.56%,3
+Lillia,JUNGLE,Kha'Zix,50.13%,4
+Lillia,JUNGLE,Nocturne,51.19%,5
+Lillia,JUNGLE,Jarvan IV,41.54%,6
+Lillia,JUNGLE,Xin Zhao,49.21%,7
+Lillia,JUNGLE,Vi,52.23%,8
+Lillia,JUNGLE,Kayn,55.20%,9
+Lillia,JUNGLE,Zaahen,50.47%,10
+Lissandra,MID,Yasuo,53.83%,1
+Lissandra,MID,Zed,50.63%,2
+Lissandra,MID,Katarina,47.49%,3
+Lissandra,MID,Sylas,47.57%,4
+Lissandra,MID,Akali,55.94%,5
+Lissandra,MID,Viktor,50.99%,6
+Lissandra,MID,LeBlanc,50.56%,7
+Lissandra,MID,Malzahar,49.66%,8
+Lissandra,MID,Yone,55.10%,9
+Lissandra,MID,Fizz,51.75%,10
+Lucian,ADC,Ezreal,49.47%,1
+Lucian,ADC,Kai'Sa,49.36%,2
+Lucian,ADC,Jinx,49.73%,3
+Lucian,ADC,Caitlyn,49.88%,4
+Lucian,ADC,Jhin,48.93%,5
+Lucian,ADC,Yunara,51.58%,6
+Lucian,ADC,Ashe,49.94%,7
+Lucian,ADC,Smolder,48.73%,8
+Lucian,ADC,Miss Fortune,49.29%,9
+Lucian,ADC,Sivir,51.08%,10
+Lulu,SUPPORT,Nami,47.84%,1
+Lulu,SUPPORT,Karma,50.46%,2
+Lulu,SUPPORT,Thresh,49.04%,3
+Lulu,SUPPORT,Nautilus,49.72%,4
+Lulu,SUPPORT,Milio,48.04%,5
+Lulu,SUPPORT,Bard,49.80%,6
+Lulu,SUPPORT,Leona,48.35%,7
+Lulu,SUPPORT,Yuumi,50.62%,8
+Lulu,SUPPORT,Braum,50.79%,9
+Lulu,SUPPORT,Senna,44.18%,10
+Lux,MID,Ahri,48.47%,1
+Lux,MID,Viktor,48.50%,2
+Lux,MID,Malzahar,54.75%,3
+Lux,MID,Mel,44.53%,4
+Lux,MID,Xerath,46.80%,5
+Lux,MID,Zed,55.37%,6
+Lux,MID,Yasuo,54.36%,7
+Lux,MID,Katarina,45.69%,8
+Lux,MID,Syndra,53.33%,9
+Lux,MID,Sylas,55.79%,10
+Lux,SUPPORT,Nami,47.23%,1
+Lux,SUPPORT,Karma,49.33%,2
+Lux,SUPPORT,Thresh,45.73%,3
+Lux,SUPPORT,Nautilus,48.68%,4
+Lux,SUPPORT,Bard,54.19%,5
+Lux,SUPPORT,Milio,43.71%,6
+Lux,SUPPORT,Blitzcrank,51.19%,7
+Lux,SUPPORT,Seraphine,48.75%,8
+Lux,SUPPORT,Pyke,48.95%,9
+Lux,SUPPORT,Leona,50.64%,10
+Malphite,JUNGLE,Graves,52.05%,1
+Malphite,JUNGLE,Lee Sin,43.92%,2
+Malphite,JUNGLE,Viego,47.59%,3
+Malphite,JUNGLE,Sylas,35.76%,4
+Malphite,JUNGLE,Kha'Zix,51.56%,5
+Malphite,JUNGLE,Nocturne,49.15%,6
+Malphite,JUNGLE,Master Yi,48.51%,7
+Malphite,JUNGLE,Kayn,48.39%,8
+Malphite,JUNGLE,Jarvan IV,41.57%,9
+Malphite,JUNGLE,Rengar,46.34%,10
+Malphite,MID,Zed,56.02%,1
+Malphite,MID,Yasuo,57.14%,2
+Malphite,MID,Sylas,46.39%,3
+Malphite,MID,Ahri,45.57%,4
+Malphite,MID,Akshan,60.87%,5
+Malphite,MID,Katarina,58.18%,6
+Malphite,MID,Qiyana,60.87%,7
+Malphite,MID,Yone,46.67%,8
+Malphite,MID,Talon,59.46%,9
+Malphite,MID,Viktor,32.43%,10
+Malphite,TOP,Jayce,53.97%,1
+Malphite,TOP,Sylas,46.58%,2
+Malphite,TOP,Aatrox,53.25%,3
+Malphite,TOP,Gnar,53.42%,4
+Malphite,TOP,Mordekaiser,43.73%,5
+Malphite,TOP,Garen,46.43%,6
+Malphite,TOP,Irelia,53.75%,7
+Malphite,TOP,Yone,49.84%,8
+Malphite,TOP,Jax,49.83%,9
+Malphite,TOP,Sion,41.95%,10
+Malzahar,MID,Ahri,51.51%,1
+Malzahar,MID,Yasuo,51.57%,2
+Malzahar,MID,Viktor,47.82%,3
+Malzahar,MID,Katarina,49.63%,4
+Malzahar,MID,Smolder,46.56%,5
+Malzahar,MID,Zed,50.53%,6
+Malzahar,MID,Twisted Fate,47.81%,7
+Malzahar,MID,Mel,54.81%,8
+Malzahar,MID,Akali,50.15%,9
+Malzahar,MID,Sylas,50.33%,10
+Maokai,JUNGLE,Lee Sin,46.97%,1
+Maokai,JUNGLE,Viego,42.86%,2
+Maokai,JUNGLE,Vi,53.06%,3
+Maokai,JUNGLE,Kha'Zix,37.21%,4
+Maokai,JUNGLE,Zaahen,41.46%,5
+Maokai,JUNGLE,Nocturne,68.42%,6
+Maokai,JUNGLE,Graves,42.86%,7
+Maokai,JUNGLE,Jarvan IV,54.84%,8
+Maokai,JUNGLE,Sylas,43.33%,9
+Maokai,SUPPORT,Nami,52.38%,1
+Maokai,SUPPORT,Thresh,48.62%,2
+Maokai,SUPPORT,Karma,50.87%,3
+Maokai,SUPPORT,Lulu,54.26%,4
+Maokai,SUPPORT,Nautilus,47.20%,5
+Maokai,SUPPORT,Pyke,54.35%,6
+Maokai,SUPPORT,Braum,49.41%,7
+Maokai,SUPPORT,Milio,46.75%,8
+Maokai,SUPPORT,Leona,49.67%,9
+Maokai,SUPPORT,Bard,51.01%,10
+Maokai,TOP,Garen,35.42%,1
+Maokai,TOP,Darius,58.33%,2
+Maokai,TOP,Yone,51.11%,3
+Maokai,TOP,Aatrox,46.51%,4
+Maokai,TOP,Gangplank,68.29%,5
+Maokai,TOP,Malphite,51.22%,6
+Maokai,TOP,Dr. Mundo,42.86%,7
+Maokai,TOP,Jax,53.13%,8
+Maokai,TOP,Mordekaiser,40.63%,9
+Maokai,TOP,Sett,46.88%,10
+Master Yi,JUNGLE,Lee Sin,49.11%,1
+Master Yi,JUNGLE,Graves,53.70%,2
+Master Yi,JUNGLE,Kha'Zix,44.17%,3
+Master Yi,JUNGLE,Nocturne,52.21%,4
+Master Yi,JUNGLE,Xin Zhao,46.54%,5
+Master Yi,JUNGLE,Jarvan IV,53.91%,6
+Master Yi,JUNGLE,Vi,51.11%,7
+Master Yi,JUNGLE,Kayn,50.23%,8
+Master Yi,JUNGLE,Briar,47.34%,9
+Master Yi,JUNGLE,Talon,51.98%,10
+Master Yi,TOP,Garen,51.79%,1
+Master Yi,TOP,Gangplank,52.94%,2
+Master Yi,TOP,Jax,41.67%,3
+Master Yi,TOP,Malphite,55.56%,4
+Master Yi,TOP,Renekton,57.89%,5
+Master Yi,TOP,Darius,37.14%,6
+Master Yi,TOP,Aatrox,54.55%,7
+Master Yi,TOP,Yone,60.61%,8
+Master Yi,TOP,Sion,40.63%,9
+Mel,ADC,Caitlyn,52.94%,1
+Mel,ADC,Ezreal,44.87%,2
+Mel,ADC,Kai'Sa,52.23%,3
+Mel,ADC,Jinx,55.11%,4
+Mel,ADC,Jhin,47.32%,5
+Mel,ADC,Smolder,52.38%,6
+Mel,ADC,Yunara,52.60%,7
+Mel,ADC,Sivir,45.97%,8
+Mel,ADC,Ashe,44.74%,9
+Mel,ADC,Miss Fortune,51.40%,10
+Mel,MID,Ahri,52.16%,1
+Mel,MID,Viktor,46.86%,2
+Mel,MID,Yasuo,45.75%,3
+Mel,MID,Xerath,38.11%,4
+Mel,MID,Twisted Fate,51.14%,5
+Mel,MID,Malzahar,45.19%,6
+Mel,MID,Syndra,45.54%,7
+Mel,MID,Zoe,50.17%,8
+Mel,MID,Zed,50.83%,9
+Mel,MID,Katarina,51.01%,10
+Mel,SUPPORT,Nami,47.84%,1
+Mel,SUPPORT,Thresh,51.89%,2
+Mel,SUPPORT,Karma,44.84%,3
+Mel,SUPPORT,Lulu,44.32%,4
+Mel,SUPPORT,Blitzcrank,55.56%,5
+Mel,SUPPORT,Nautilus,40.96%,6
+Mel,SUPPORT,Leona,39.22%,7
+Mel,SUPPORT,Lux,44.68%,8
+Mel,SUPPORT,Bard,38.81%,9
+Mel,SUPPORT,Pyke,46.51%,10
+Milio,SUPPORT,Nami,46.29%,1
+Milio,SUPPORT,Lulu,51.96%,2
+Milio,SUPPORT,Thresh,50.17%,3
+Milio,SUPPORT,Karma,48.53%,4
+Milio,SUPPORT,Nautilus,53.90%,5
+Milio,SUPPORT,Bard,47.12%,6
+Milio,SUPPORT,Leona,50.55%,7
+Milio,SUPPORT,Braum,50.81%,8
+Milio,SUPPORT,Seraphine,52.80%,9
+Milio,SUPPORT,Sona,43.98%,10
+Miss Fortune,ADC,Ezreal,52.30%,1
+Miss Fortune,ADC,Caitlyn,51.78%,2
+Miss Fortune,ADC,Kai'Sa,52.03%,3
+Miss Fortune,ADC,Jinx,49.36%,4
+Miss Fortune,ADC,Jhin,51.25%,5
+Miss Fortune,ADC,Smolder,49.63%,6
+Miss Fortune,ADC,Ashe,51.27%,7
+Miss Fortune,ADC,Lucian,50.71%,8
+Miss Fortune,ADC,Yunara,55.21%,9
+Miss Fortune,ADC,Aphelios,54.51%,10
+Mordekaiser,TOP,Garen,50.22%,1
+Mordekaiser,TOP,Aatrox,48.16%,2
+Mordekaiser,TOP,Ornn,54.97%,3
+Mordekaiser,TOP,Malphite,56.20%,4
+Mordekaiser,TOP,Renekton,49.60%,5
+Mordekaiser,TOP,Sett,50.16%,6
+Mordekaiser,TOP,Shen,48.79%,7
+Mordekaiser,TOP,Jax,47.39%,8
+Mordekaiser,TOP,Zaahen,44.85%,9
+Mordekaiser,TOP,Volibear,55.94%,10
+Morgana,SUPPORT,Thresh,49.66%,1
+Morgana,SUPPORT,Nautilus,50.74%,2
+Morgana,SUPPORT,Nami,45.40%,3
+Morgana,SUPPORT,Karma,48.69%,4
+Morgana,SUPPORT,Leona,55.48%,5
+Morgana,SUPPORT,Lulu,47.84%,6
+Morgana,SUPPORT,Blitzcrank,47.20%,7
+Morgana,SUPPORT,Milio,52.55%,8
+Morgana,SUPPORT,Braum,46.97%,9
+Morgana,SUPPORT,Pyke,53.25%,10
+Naafiri,JUNGLE,Kha'Zix,53.18%,1
+Naafiri,JUNGLE,Lee Sin,50.35%,2
+Naafiri,JUNGLE,Viego,57.24%,3
+Naafiri,JUNGLE,Graves,53.40%,4
+Naafiri,JUNGLE,Xin Zhao,45.83%,5
+Naafiri,JUNGLE,Nocturne,40.43%,6
+Naafiri,JUNGLE,Jarvan IV,51.49%,7
+Naafiri,JUNGLE,Vi,50.24%,8
+Naafiri,JUNGLE,Zaahen,53.66%,9
+Naafiri,JUNGLE,Kayn,49.72%,10
+Naafiri,MID,Ahri,48.12%,1
+Naafiri,MID,Yasuo,46.37%,2
+Naafiri,MID,Katarina,50.90%,3
+Naafiri,MID,Viktor,51.85%,4
+Naafiri,MID,Zed,47.95%,5
+Naafiri,MID,Sylas,65.07%,6
+Naafiri,MID,Akali,53.47%,7
+Naafiri,MID,Mel,48.25%,8
+Naafiri,MID,Malzahar,48.85%,9
+Naafiri,MID,Twisted Fate,48.78%,10
+Nami,SUPPORT,Karma,51.34%,1
+Nami,SUPPORT,Lulu,52.16%,2
+Nami,SUPPORT,Thresh,51.05%,3
+Nami,SUPPORT,Nautilus,51.54%,4
+Nami,SUPPORT,Milio,53.71%,5
+Nami,SUPPORT,Bard,50.25%,6
+Nami,SUPPORT,Sona,48.62%,7
+Nami,SUPPORT,Soraka,49.09%,8
+Nami,SUPPORT,Leona,51.80%,9
+Nami,SUPPORT,Braum,49.32%,10
+Nasus,JUNGLE,Briar,63.08%,1
+Nasus,JUNGLE,Viego,46.15%,2
+Nasus,JUNGLE,Nocturne,46.03%,3
+Nasus,JUNGLE,Kha'Zix,56.25%,4
+Nasus,JUNGLE,Lee Sin,45.65%,5
+Nasus,JUNGLE,Xin Zhao,56.10%,6
+Nasus,JUNGLE,Ekko,58.54%,7
+Nasus,JUNGLE,Diana,57.50%,8
+Nasus,JUNGLE,Rengar,46.15%,9
+Nasus,JUNGLE,Kayn,47.37%,10
+Nasus,MID,Zed,43.10%,1
+Nasus,MID,Ahri,36.84%,2
+Nasus,MID,Yasuo,61.40%,3
+Nasus,MID,Viktor,63.41%,4
+Nasus,MID,Malzahar,38.46%,5
+Nasus,MID,Katarina,52.78%,6
+Nasus,MID,Hwei,61.11%,7
+Nasus,MID,Akali,63.64%,8
+Nasus,MID,Sylas,42.42%,9
+Nasus,MID,Veigar,53.33%,10
+Nasus,TOP,Garen,48.78%,1
+Nasus,TOP,Aatrox,48.61%,2
+Nasus,TOP,Darius,49.12%,3
+Nasus,TOP,Ornn,47.12%,4
+Nasus,TOP,Malphite,52.74%,5
+Nasus,TOP,Kayle,48.99%,6
+Nasus,TOP,Renekton,57.29%,7
+Nasus,TOP,Yone,52.91%,8
+Nasus,TOP,Sion,47.54%,9
+Nasus,TOP,Zaahen,46.96%,10
+Nautilus,SUPPORT,Nami,48.46%,1
+Nautilus,SUPPORT,Thresh,48.50%,2
+Nautilus,SUPPORT,Karma,50.64%,3
+Nautilus,SUPPORT,Braum,44.46%,4
+Nautilus,SUPPORT,Lulu,50.28%,5
+Nautilus,SUPPORT,Leona,44.16%,6
+Nautilus,SUPPORT,Bard,50.86%,7
+Nautilus,SUPPORT,Alistar,46.48%,8
+Nautilus,SUPPORT,Pyke,44.59%,9
+Nautilus,SUPPORT,Milio,46.10%,10
+Neeko,SUPPORT,Karma,43.35%,1
+Neeko,SUPPORT,Nami,50.69%,2
+Neeko,SUPPORT,Thresh,46.58%,3
+Neeko,SUPPORT,Lulu,47.57%,4
+Neeko,SUPPORT,Nautilus,46.78%,5
+Neeko,SUPPORT,Bard,46.96%,6
+Neeko,SUPPORT,Braum,46.24%,7
+Neeko,SUPPORT,Milio,50.60%,8
+Neeko,SUPPORT,Seraphine,40.76%,9
+Neeko,SUPPORT,Leona,46.75%,10
+Nidalee,JUNGLE,Lee Sin,46.09%,1
+Nidalee,JUNGLE,Graves,52.23%,2
+Nidalee,JUNGLE,Viego,54.07%,3
+Nidalee,JUNGLE,Kha'Zix,49.75%,4
+Nidalee,JUNGLE,Xin Zhao,50.86%,5
+Nidalee,JUNGLE,Jarvan IV,51.13%,6
+Nidalee,JUNGLE,Vi,58.12%,7
+Nidalee,JUNGLE,Lillia,46.46%,8
+Nidalee,JUNGLE,Zaahen,54.08%,9
+Nidalee,JUNGLE,Nocturne,41.24%,10
+Nilah,ADC,Kai'Sa,50.71%,1
+Nilah,ADC,Ezreal,54.47%,2
+Nilah,ADC,Jinx,54.07%,3
+Nilah,ADC,Caitlyn,54.27%,4
+Nilah,ADC,Jhin,54.24%,5
+Nilah,ADC,Smolder,46.71%,6
+Nilah,ADC,Samira,51.81%,7
+Nilah,ADC,Twitch,60.42%,8
+Nilah,ADC,Yunara,58.93%,9
+Nilah,ADC,Lucian,52.48%,10
+Nocturne,JUNGLE,Lee Sin,49.59%,1
+Nocturne,JUNGLE,Viego,52.86%,2
+Nocturne,JUNGLE,Graves,50.74%,3
+Nocturne,JUNGLE,Kha'Zix,51.27%,4
+Nocturne,JUNGLE,Jarvan IV,51.45%,5
+Nocturne,JUNGLE,Zaahen,46.75%,6
+Nocturne,JUNGLE,Vi,52.96%,7
+Nocturne,JUNGLE,Kayn,53.02%,8
+Nocturne,JUNGLE,Lillia,48.81%,9
+Nocturne,JUNGLE,Sylas,48.60%,10
+Olaf,TOP,Mordekaiser,45.27%,1
+Olaf,TOP,Garen,51.45%,2
+Olaf,TOP,Jax,51.91%,3
+Olaf,TOP,Aatrox,47.79%,4
+Olaf,TOP,Gangplank,56.76%,5
+Olaf,TOP,Ornn,55.96%,6
+Olaf,TOP,Jayce,56.48%,7
+Olaf,TOP,Zaahen,49.07%,8
+Olaf,TOP,Shen,52.34%,9
+Olaf,TOP,Darius,51.40%,10
+Orianna,MID,Ahri,44.56%,1
+Orianna,MID,Viktor,46.79%,2
+Orianna,MID,Syndra,45.45%,3
+Orianna,MID,Sylas,46.44%,4
+Orianna,MID,Yasuo,51.08%,5
+Orianna,MID,Akali,44.63%,6
+Orianna,MID,Mel,54.35%,7
+Orianna,MID,Zed,46.79%,8
+Orianna,MID,Twisted Fate,48.85%,9
+Orianna,MID,Xerath,45.12%,10
+Ornn,TOP,Mordekaiser,45.43%,1
+Ornn,TOP,Garen,47.63%,2
+Ornn,TOP,Aatrox,46.81%,3
+Ornn,TOP,Darius,49.41%,4
+Ornn,TOP,Zaahen,51.38%,5
+Ornn,TOP,Yone,43.15%,6
+Ornn,TOP,Malphite,56.69%,7
+Ornn,TOP,Sett,49.45%,8
+Ornn,TOP,Renekton,54.95%,9
+Ornn,TOP,Sion,56.25%,10
+Pantheon,JUNGLE,Lee Sin,57.75%,1
+Pantheon,JUNGLE,Viego,44.83%,2
+Pantheon,JUNGLE,Graves,52.88%,3
+Pantheon,JUNGLE,Kha'Zix,52.27%,4
+Pantheon,JUNGLE,Xin Zhao,52.44%,5
+Pantheon,JUNGLE,Vi,40.32%,6
+Pantheon,JUNGLE,Master Yi,58.49%,7
+Pantheon,JUNGLE,Jarvan IV,38.46%,8
+Pantheon,JUNGLE,Briar,50.98%,9
+Pantheon,JUNGLE,Talon,53.19%,10
+Pantheon,MID,Yasuo,57.60%,1
+Pantheon,MID,Ahri,54.22%,2
+Pantheon,MID,Katarina,46.58%,3
+Pantheon,MID,Zed,42.19%,4
+Pantheon,MID,Sylas,46.67%,5
+Pantheon,MID,Akali,59.26%,6
+Pantheon,MID,Fizz,53.33%,7
+Pantheon,MID,Twisted Fate,51.22%,8
+Pantheon,MID,Akshan,45.45%,9
+Pantheon,MID,Viktor,45.16%,10
+Pantheon,SUPPORT,Nami,43.88%,1
+Pantheon,SUPPORT,Thresh,48.21%,2
+Pantheon,SUPPORT,Karma,49.01%,3
+Pantheon,SUPPORT,Nautilus,50.63%,4
+Pantheon,SUPPORT,Lulu,51.05%,5
+Pantheon,SUPPORT,Braum,51.05%,6
+Pantheon,SUPPORT,Pyke,42.02%,7
+Pantheon,SUPPORT,Bard,48.81%,8
+Pantheon,SUPPORT,Leona,48.80%,9
+Pantheon,SUPPORT,Yuumi,45.73%,10
+Pantheon,TOP,Aatrox,53.19%,1
+Pantheon,TOP,Garen,60.74%,2
+Pantheon,TOP,Renekton,47.37%,3
+Pantheon,TOP,Darius,54.05%,4
+Pantheon,TOP,Jax,56.36%,5
+Pantheon,TOP,Zaahen,45.54%,6
+Pantheon,TOP,Ambessa,51.06%,7
+Pantheon,TOP,Mordekaiser,45.16%,8
+Pantheon,TOP,Malphite,45.65%,9
+Pantheon,TOP,Sett,52.22%,10
+Poppy,SUPPORT,Nautilus,52.07%,1
+Poppy,SUPPORT,Thresh,45.41%,2
+Poppy,SUPPORT,Leona,50.27%,3
+Poppy,SUPPORT,Alistar,57.40%,4
+Poppy,SUPPORT,Nami,43.13%,5
+Poppy,SUPPORT,Pyke,53.25%,6
+Poppy,SUPPORT,Rakan,43.05%,7
+Poppy,SUPPORT,Lulu,42.96%,8
+Poppy,SUPPORT,Bard,44.78%,9
+Poppy,SUPPORT,Karma,45.38%,10
+Poppy,TOP,Ambessa,52.59%,1
+Poppy,TOP,Jax,56.84%,2
+Poppy,TOP,Aatrox,57.14%,3
+Poppy,TOP,Zaahen,63.74%,4
+Poppy,TOP,Garen,48.28%,5
+Poppy,TOP,Ornn,65.48%,6
+Poppy,TOP,Darius,41.25%,7
+Poppy,TOP,Mordekaiser,54.05%,8
+Poppy,TOP,Sett,63.51%,9
+Poppy,TOP,Irelia,53.52%,10
+Pyke,SUPPORT,Thresh,48.41%,1
+Pyke,SUPPORT,Nami,47.91%,2
+Pyke,SUPPORT,Karma,49.57%,3
+Pyke,SUPPORT,Nautilus,55.41%,4
+Pyke,SUPPORT,Lulu,48.81%,5
+Pyke,SUPPORT,Rakan,42.46%,6
+Pyke,SUPPORT,Leona,50.11%,7
+Pyke,SUPPORT,Bard,48.88%,8
+Pyke,SUPPORT,Braum,52.39%,9
+Pyke,SUPPORT,Soraka,49.52%,10
+Qiyana,JUNGLE,Lee Sin,47.77%,1
+Qiyana,JUNGLE,Viego,52.73%,2
+Qiyana,JUNGLE,Graves,41.38%,3
+Qiyana,JUNGLE,Kha'Zix,47.80%,4
+Qiyana,JUNGLE,Jarvan IV,45.95%,5
+Qiyana,JUNGLE,Nocturne,42.99%,6
+Qiyana,JUNGLE,Xin Zhao,43.14%,7
+Qiyana,JUNGLE,Talon,35.64%,8
+Qiyana,JUNGLE,Naafiri,46.59%,9
+Qiyana,JUNGLE,Zaahen,52.94%,10
+Qiyana,MID,Ahri,51.23%,1
+Qiyana,MID,Zed,56.07%,2
+Qiyana,MID,Yasuo,58.25%,3
+Qiyana,MID,Akali,50.27%,4
+Qiyana,MID,Sylas,47.75%,5
+Qiyana,MID,Viktor,56.96%,6
+Qiyana,MID,Katarina,49.66%,7
+Qiyana,MID,Twisted Fate,50.70%,8
+Qiyana,MID,Orianna,58.02%,9
+Qiyana,MID,Malzahar,47.11%,10
+Quinn,TOP,Garen,54.67%,1
+Quinn,TOP,Darius,55.41%,2
+Quinn,TOP,Malphite,49.25%,3
+Quinn,TOP,Renekton,63.16%,4
+Quinn,TOP,Gangplank,48.15%,5
+Quinn,TOP,Riven,51.85%,6
+Quinn,TOP,Jax,56.60%,7
+Quinn,TOP,Nasus,60.38%,8
+Quinn,TOP,Vayne,53.85%,9
+Quinn,TOP,Aatrox,53.85%,10
+Rakan,SUPPORT,Nami,51.04%,1
+Rakan,SUPPORT,Thresh,48.12%,2
+Rakan,SUPPORT,Karma,56.11%,3
+Rakan,SUPPORT,Pyke,57.54%,4
+Rakan,SUPPORT,Lulu,47.64%,5
+Rakan,SUPPORT,Nautilus,48.62%,6
+Rakan,SUPPORT,Braum,52.78%,7
+Rakan,SUPPORT,Bard,49.28%,8
+Rakan,SUPPORT,Alistar,45.15%,9
+Rakan,SUPPORT,Milio,48.25%,10
+Rammus,JUNGLE,Master Yi,54.82%,1
+Rammus,JUNGLE,Viego,56.28%,2
+Rammus,JUNGLE,Lee Sin,47.76%,3
+Rammus,JUNGLE,Graves,47.71%,4
+Rammus,JUNGLE,Kha'Zix,58.65%,5
+Rammus,JUNGLE,Briar,52.81%,6
+Rammus,JUNGLE,Lillia,48.28%,7
+Rammus,JUNGLE,Nocturne,46.34%,8
+Rammus,JUNGLE,Diana,58.67%,9
+Rammus,JUNGLE,Kayn,46.58%,10
+Rek'Sai,JUNGLE,Lee Sin,49.37%,1
+Rek'Sai,JUNGLE,Viego,53.47%,2
+Rek'Sai,JUNGLE,Graves,48.67%,3
+Rek'Sai,JUNGLE,Kha'Zix,57.84%,4
+Rek'Sai,JUNGLE,Xin Zhao,53.49%,5
+Rek'Sai,JUNGLE,Zaahen,45.95%,6
+Rek'Sai,JUNGLE,Vi,51.70%,7
+Rek'Sai,JUNGLE,Jarvan IV,56.94%,8
+Rek'Sai,JUNGLE,Nocturne,47.41%,9
+Rek'Sai,JUNGLE,Kayn,59.65%,10
+Rell,SUPPORT,Nautilus,58.01%,1
+Rell,SUPPORT,Thresh,48.56%,2
+Rell,SUPPORT,Nami,44.74%,3
+Rell,SUPPORT,Karma,56.29%,4
+Rell,SUPPORT,Lulu,50.17%,5
+Rell,SUPPORT,Alistar,52.08%,6
+Rell,SUPPORT,Leona,42.67%,7
+Rell,SUPPORT,Braum,48.44%,8
+Rell,SUPPORT,Bard,43.75%,9
+Rell,SUPPORT,Rakan,55.15%,10
+Renekton,TOP,Ambessa,56.70%,1
+Renekton,TOP,Aatrox,50.27%,2
+Renekton,TOP,Garen,45.61%,3
+Renekton,TOP,Yone,48.20%,4
+Renekton,TOP,Mordekaiser,50.67%,5
+Renekton,TOP,Jax,49.73%,6
+Renekton,TOP,Darius,50.85%,7
+Renekton,TOP,Sett,51.18%,8
+Renekton,TOP,Zaahen,46.69%,9
+Renekton,TOP,Yasuo,53.07%,10
+Rengar,JUNGLE,Viego,51.01%,1
+Rengar,JUNGLE,Lee Sin,51.86%,2
+Rengar,JUNGLE,Kha'Zix,55.72%,3
+Rengar,JUNGLE,Graves,49.53%,4
+Rengar,JUNGLE,Nocturne,47.52%,5
+Rengar,JUNGLE,Xin Zhao,43.72%,6
+Rengar,JUNGLE,Jarvan IV,51.40%,7
+Rengar,JUNGLE,Talon,53.88%,8
+Rengar,JUNGLE,Hecarim,45.81%,9
+Rengar,JUNGLE,Kayn,45.88%,10
+Riven,TOP,Garen,42.65%,1
+Riven,TOP,Renekton,42.58%,2
+Riven,TOP,Aatrox,50.95%,3
+Riven,TOP,Malphite,46.89%,4
+Riven,TOP,Darius,49.79%,5
+Riven,TOP,Zaahen,45.64%,6
+Riven,TOP,Gangplank,45.41%,7
+Riven,TOP,Sett,48.31%,8
+Riven,TOP,Jax,56.98%,9
+Riven,TOP,Ambessa,51.16%,10
+Rumble,TOP,Aatrox,48.74%,1
+Rumble,TOP,Yone,39.11%,2
+Rumble,TOP,K'Sante,54.44%,3
+Rumble,TOP,Jayce,47.90%,4
+Rumble,TOP,Ornn,47.50%,5
+Rumble,TOP,Renekton,48.72%,6
+Rumble,TOP,Zaahen,50.64%,7
+Rumble,TOP,Malphite,46.62%,8
+Rumble,TOP,Darius,46.56%,9
+Rumble,TOP,Garen,49.61%,10
+Ryze,MID,Ahri,47.29%,1
+Ryze,MID,Viktor,48.14%,2
+Ryze,MID,Sylas,52.42%,3
+Ryze,MID,Yasuo,46.45%,4
+Ryze,MID,Twisted Fate,43.06%,5
+Ryze,MID,Akali,51.06%,6
+Ryze,MID,Malzahar,38.89%,7
+Ryze,MID,Yone,42.91%,8
+Ryze,MID,Zed,46.89%,9
+Ryze,MID,Orianna,54.01%,10
+Ryze,TOP,Garen,38.24%,1
+Ryze,TOP,Teemo,41.94%,2
+Ryze,TOP,Malphite,48.39%,3
+Ryze,TOP,Aatrox,51.61%,4
+Ryze,TOP,Jax,62.07%,5
+Ryze,TOP,Gangplank,42.86%,6
+Ryze,TOP,Darius,48.21%,7
+Ryze,TOP,Zaahen,52.73%,8
+Ryze,TOP,Jayce,59.26%,9
+Ryze,TOP,Nasus,55.10%,10
+Samira,ADC,Kai'Sa,52.71%,1
+Samira,ADC,Ezreal,56.45%,2
+Samira,ADC,Caitlyn,51.21%,3
+Samira,ADC,Jinx,45.96%,4
+Samira,ADC,Jhin,52.10%,5
+Samira,ADC,Xayah,46.83%,6
+Samira,ADC,Lucian,51.50%,7
+Samira,ADC,Miss Fortune,48.30%,8
+Samira,ADC,Yunara,50.88%,9
+Samira,ADC,Vayne,48.99%,10
+Sejuani,JUNGLE,Lee Sin,56.18%,1
+Sejuani,JUNGLE,Viego,53.64%,2
+Sejuani,JUNGLE,Kha'Zix,59.44%,3
+Sejuani,JUNGLE,Graves,51.54%,4
+Sejuani,JUNGLE,Nocturne,42.86%,5
+Sejuani,JUNGLE,Vi,37.36%,6
+Sejuani,JUNGLE,Lillia,50.60%,7
+Sejuani,JUNGLE,Zaahen,47.56%,8
+Sejuani,JUNGLE,Kayn,44.87%,9
+Sejuani,JUNGLE,Rengar,43.24%,10
+Senna,ADC,Caitlyn,47.96%,1
+Senna,ADC,Jinx,51.22%,2
+Senna,ADC,Jhin,47.66%,3
+Senna,ADC,Ezreal,48.02%,4
+Senna,ADC,Smolder,50.52%,5
+Senna,ADC,Kai'Sa,51.05%,6
+Senna,ADC,Ashe,51.03%,7
+Senna,ADC,Yunara,59.13%,8
+Senna,ADC,Miss Fortune,47.32%,9
+Senna,ADC,Vayne,47.22%,10
+Senna,SUPPORT,Nami,52.75%,1
+Senna,SUPPORT,Karma,47.77%,2
+Senna,SUPPORT,Lulu,55.82%,3
+Senna,SUPPORT,Nautilus,51.06%,4
+Senna,SUPPORT,Thresh,49.03%,5
+Senna,SUPPORT,Bard,49.62%,6
+Senna,SUPPORT,Milio,49.42%,7
+Senna,SUPPORT,Soraka,53.26%,8
+Senna,SUPPORT,Pyke,45.52%,9
+Senna,SUPPORT,Braum,51.64%,10
+Seraphine,SUPPORT,Nami,48.44%,1
+Seraphine,SUPPORT,Karma,53.41%,2
+Seraphine,SUPPORT,Thresh,51.02%,3
+Seraphine,SUPPORT,Lulu,46.80%,4
+Seraphine,SUPPORT,Nautilus,48.52%,5
+Seraphine,SUPPORT,Milio,47.20%,6
+Seraphine,SUPPORT,Bard,49.71%,7
+Seraphine,SUPPORT,Blitzcrank,48.89%,8
+Seraphine,SUPPORT,Leona,50.19%,9
+Seraphine,SUPPORT,Senna,47.62%,10
+Sett,TOP,Garen,46.09%,1
+Sett,TOP,Darius,50.98%,2
+Sett,TOP,Aatrox,50.42%,3
+Sett,TOP,Renekton,49.41%,4
+Sett,TOP,Mordekaiser,50.16%,5
+Sett,TOP,Zaahen,45.66%,6
+Sett,TOP,Irelia,56.64%,7
+Sett,TOP,Yone,49.10%,8
+Sett,TOP,Ornn,50.74%,9
+Sett,TOP,Jax,53.47%,10
+Shaco,JUNGLE,Lee Sin,49.26%,1
+Shaco,JUNGLE,Graves,46.97%,2
+Shaco,JUNGLE,Viego,51.55%,3
+Shaco,JUNGLE,Kha'Zix,55.88%,4
+Shaco,JUNGLE,Xin Zhao,46.31%,5
+Shaco,JUNGLE,Nocturne,46.52%,6
+Shaco,JUNGLE,Jarvan IV,53.42%,7
+Shaco,JUNGLE,Kayn,48.53%,8
+Shaco,JUNGLE,Diana,47.21%,9
+Shaco,JUNGLE,Briar,47.62%,10
+Shaco,SUPPORT,Nami,45.22%,1
+Shaco,SUPPORT,Thresh,60.26%,2
+Shaco,SUPPORT,Karma,39.60%,3
+Shaco,SUPPORT,Nautilus,52.24%,4
+Shaco,SUPPORT,Bard,52.53%,5
+Shaco,SUPPORT,Pyke,53.57%,6
+Shaco,SUPPORT,Alistar,52.38%,7
+Shaco,SUPPORT,Yuumi,55.56%,8
+Shaco,SUPPORT,Milio,40.68%,9
+Shaco,SUPPORT,Senna,53.57%,10
+Shen,JUNGLE,Viego,47.98%,1
+Shen,JUNGLE,Graves,53.33%,2
+Shen,JUNGLE,Lee Sin,46.80%,3
+Shen,JUNGLE,Kha'Zix,51.11%,4
+Shen,JUNGLE,Xin Zhao,56.65%,5
+Shen,JUNGLE,Nocturne,47.94%,6
+Shen,JUNGLE,Kayn,49.74%,7
+Shen,JUNGLE,Lillia,56.82%,8
+Shen,JUNGLE,Jarvan IV,53.01%,9
+Shen,JUNGLE,Zaahen,49.69%,10
+Shen,SUPPORT,Nami,43.96%,1
+Shen,SUPPORT,Nautilus,55.74%,2
+Shen,SUPPORT,Karma,33.90%,3
+Shen,SUPPORT,Braum,41.86%,4
+Shen,SUPPORT,Lulu,57.89%,5
+Shen,SUPPORT,Bard,29.73%,6
+Shen,SUPPORT,Leona,42.86%,7
+Shen,SUPPORT,Pyke,60.61%,8
+Shen,SUPPORT,Alistar,41.94%,9
+Shen,TOP,Garen,44.05%,1
+Shen,TOP,Mordekaiser,50.53%,2
+Shen,TOP,Aatrox,48.61%,3
+Shen,TOP,Ornn,54.58%,4
+Shen,TOP,Darius,54.39%,5
+Shen,TOP,Sett,49.50%,6
+Shen,TOP,Jax,54.31%,7
+Shen,TOP,Renekton,53.30%,8
+Shen,TOP,Zaahen,44.67%,9
+Shen,TOP,Sion,52.58%,10
+Shyvana,JUNGLE,Viego,39.47%,1
+Shyvana,JUNGLE,Lee Sin,38.30%,2
+Shyvana,JUNGLE,Kha'Zix,50.59%,3
+Shyvana,JUNGLE,Jarvan IV,47.62%,4
+Shyvana,JUNGLE,Nocturne,49.23%,5
+Shyvana,JUNGLE,Briar,43.08%,6
+Shyvana,JUNGLE,Kayn,38.71%,7
+Shyvana,JUNGLE,Rengar,51.79%,8
+Shyvana,JUNGLE,Xin Zhao,34.55%,9
+Shyvana,JUNGLE,Shen,52.73%,10
+Singed,TOP,Garen,50.45%,1
+Singed,TOP,Aatrox,54.38%,2
+Singed,TOP,Nasus,53.55%,3
+Singed,TOP,Sion,57.14%,4
+Singed,TOP,Darius,47.40%,5
+Singed,TOP,Ornn,52.73%,6
+Singed,TOP,Kayle,50.31%,7
+Singed,TOP,Gangplank,44.44%,8
+Singed,TOP,Zaahen,48.98%,9
+Singed,TOP,Jax,51.03%,10
+Sion,MID,Ahri,48.25%,1
+Sion,MID,Malzahar,62.04%,2
+Sion,MID,Zed,43.30%,3
+Sion,MID,Yasuo,57.38%,4
+Sion,MID,Sylas,48.33%,5
+Sion,MID,Viktor,43.86%,6
+Sion,MID,Mel,61.54%,7
+Sion,MID,Yone,45.10%,8
+Sion,MID,Syndra,45.83%,9
+Sion,MID,Twisted Fate,57.78%,10
+Sion,TOP,Aatrox,52.28%,1
+Sion,TOP,Garen,51.31%,2
+Sion,TOP,Yone,43.48%,3
+Sion,TOP,Malphite,57.72%,4
+Sion,TOP,Zaahen,48.65%,5
+Sion,TOP,Gwen,49.82%,6
+Sion,TOP,Ornn,43.80%,7
+Sion,TOP,Darius,45.63%,8
+Sion,TOP,Gangplank,55.81%,9
+Sion,TOP,Mordekaiser,52.32%,10
+Sivir,ADC,Ezreal,52.85%,1
+Sivir,ADC,Kai'Sa,54.02%,2
+Sivir,ADC,Caitlyn,53.17%,3
+Sivir,ADC,Jinx,47.79%,4
+Sivir,ADC,Jhin,47.61%,5
+Sivir,ADC,Yunara,51.59%,6
+Sivir,ADC,Ashe,47.82%,7
+Sivir,ADC,Lucian,48.92%,8
+Sivir,ADC,Smolder,51.66%,9
+Sivir,ADC,Varus,51.17%,10
+Smolder,ADC,Kai'Sa,55.54%,1
+Smolder,ADC,Jinx,46.79%,2
+Smolder,ADC,Caitlyn,51.21%,3
+Smolder,ADC,Ezreal,54.07%,4
+Smolder,ADC,Jhin,47.06%,5
+Smolder,ADC,Miss Fortune,50.37%,6
+Smolder,ADC,Yunara,54.69%,7
+Smolder,ADC,Twitch,46.89%,8
+Smolder,ADC,Vayne,50.35%,9
+Smolder,ADC,Ashe,49.14%,10
+Smolder,MID,Malzahar,53.44%,1
+Smolder,MID,Ahri,37.29%,2
+Smolder,MID,Galio,52.87%,3
+Smolder,MID,Yasuo,38.10%,4
+Smolder,MID,Sylas,38.33%,5
+Smolder,MID,Kassadin,49.12%,6
+Smolder,MID,Viktor,41.82%,7
+Smolder,MID,Twisted Fate,52.08%,8
+Smolder,MID,Xerath,34.78%,9
+Smolder,MID,Veigar,52.27%,10
+Sona,SUPPORT,Nami,51.38%,1
+Sona,SUPPORT,Karma,49.17%,2
+Sona,SUPPORT,Lulu,52.03%,3
+Sona,SUPPORT,Thresh,50.76%,4
+Sona,SUPPORT,Nautilus,47.44%,5
+Sona,SUPPORT,Milio,56.02%,6
+Sona,SUPPORT,Soraka,47.73%,7
+Sona,SUPPORT,Bard,49.54%,8
+Sona,SUPPORT,Senna,48.53%,9
+Sona,SUPPORT,Leona,53.28%,10
+Soraka,SUPPORT,Nami,50.91%,1
+Soraka,SUPPORT,Thresh,48.56%,2
+Soraka,SUPPORT,Karma,50.85%,3
+Soraka,SUPPORT,Lulu,49.74%,4
+Soraka,SUPPORT,Nautilus,54.05%,5
+Soraka,SUPPORT,Sona,52.27%,6
+Soraka,SUPPORT,Pyke,50.48%,7
+Soraka,SUPPORT,Bard,47.87%,8
+Soraka,SUPPORT,Leona,58.22%,9
+Soraka,SUPPORT,Senna,46.74%,10
+Swain,ADC,Kai'Sa,55.35%,1
+Swain,ADC,Ezreal,53.69%,2
+Swain,ADC,Caitlyn,54.28%,3
+Swain,ADC,Jinx,52.99%,4
+Swain,ADC,Jhin,56.22%,5
+Swain,ADC,Smolder,48.45%,6
+Swain,ADC,Yunara,50.34%,7
+Swain,ADC,Lucian,45.65%,8
+Swain,ADC,Ashe,50.38%,9
+Swain,ADC,Sivir,57.48%,10
+Swain,MID,Ahri,50.34%,1
+Swain,MID,Yasuo,50.57%,2
+Swain,MID,Sylas,52.87%,3
+Swain,MID,Akali,53.52%,4
+Swain,MID,Zed,40.68%,5
+Swain,MID,Twisted Fate,64.91%,6
+Swain,MID,Anivia,42.55%,7
+Swain,MID,Yone,47.83%,8
+Swain,MID,Katarina,51.11%,9
+Swain,MID,Xerath,53.66%,10
+Swain,SUPPORT,Nami,46.89%,1
+Swain,SUPPORT,Thresh,46.24%,2
+Swain,SUPPORT,Karma,51.25%,3
+Swain,SUPPORT,Nautilus,52.94%,4
+Swain,SUPPORT,Lulu,43.10%,5
+Swain,SUPPORT,Leona,51.76%,6
+Swain,SUPPORT,Bard,55.62%,7
+Swain,SUPPORT,Milio,45.75%,8
+Swain,SUPPORT,Braum,46.94%,9
+Swain,SUPPORT,Pyke,45.38%,10
+Swain,TOP,Ornn,58.33%,1
+Swain,TOP,Garen,36.36%,2
+Swain,TOP,Aatrox,46.51%,3
+Swain,TOP,Malphite,58.54%,4
+Swain,TOP,Renekton,55.26%,5
+Swain,TOP,Zaahen,51.35%,6
+Sylas,JUNGLE,Lee Sin,48.05%,1
+Sylas,JUNGLE,Viego,48.34%,2
+Sylas,JUNGLE,Graves,47.60%,3
+Sylas,JUNGLE,Kha'Zix,47.80%,4
+Sylas,JUNGLE,Nocturne,51.40%,5
+Sylas,JUNGLE,Jarvan IV,46.04%,6
+Sylas,JUNGLE,Vi,46.15%,7
+Sylas,JUNGLE,Ekko,48.71%,8
+Sylas,JUNGLE,Hecarim,53.08%,9
+Sylas,JUNGLE,Zaahen,47.32%,10
+Sylas,MID,Ahri,48.67%,1
+Sylas,MID,Akali,48.18%,2
+Sylas,MID,Zed,50.68%,3
+Sylas,MID,Twisted Fate,47.52%,4
+Sylas,MID,Yasuo,49.30%,5
+Sylas,MID,Viktor,52.22%,6
+Sylas,MID,Katarina,49.64%,7
+Sylas,MID,Yone,48.80%,8
+Sylas,MID,Orianna,53.56%,9
+Sylas,MID,Galio,42.73%,10
+Sylas,SUPPORT,Karma,52.14%,1
+Sylas,SUPPORT,Nautilus,51.46%,2
+Sylas,SUPPORT,Nami,41.49%,3
+Sylas,SUPPORT,Braum,37.14%,4
+Sylas,SUPPORT,Alistar,58.82%,5
+Sylas,SUPPORT,Leona,42.37%,6
+Sylas,SUPPORT,Senna,53.45%,7
+Sylas,SUPPORT,Bard,58.18%,8
+Sylas,SUPPORT,Blitzcrank,44.68%,9
+Sylas,SUPPORT,Seraphine,51.06%,10
+Sylas,TOP,Malphite,53.53%,1
+Sylas,TOP,Gnar,51.56%,2
+Sylas,TOP,Kennen,54.84%,3
+Sylas,TOP,Aatrox,57.69%,4
+Sylas,TOP,Ornn,48.08%,5
+Sylas,TOP,Renekton,44.68%,6
+Sylas,TOP,Jax,33.33%,7
+Sylas,TOP,Zaahen,47.73%,8
+Sylas,TOP,Garen,38.10%,9
+Sylas,TOP,Akali,51.22%,10
+Syndra,MID,Ahri,45.69%,1
+Syndra,MID,Viktor,49.24%,2
+Syndra,MID,Xerath,49.18%,3
+Syndra,MID,Orianna,54.55%,4
+Syndra,MID,Mel,54.46%,5
+Syndra,MID,Yasuo,53.09%,6
+Syndra,MID,Sylas,48.72%,7
+Syndra,MID,Katarina,45.39%,8
+Syndra,MID,Malzahar,48.66%,9
+Syndra,MID,Akali,45.35%,10
+Tahm Kench,SUPPORT,Thresh,48.74%,1
+Tahm Kench,SUPPORT,Nami,47.79%,2
+Tahm Kench,SUPPORT,Nautilus,50.27%,3
+Tahm Kench,SUPPORT,Lulu,47.62%,4
+Tahm Kench,SUPPORT,Leona,48.99%,5
+Tahm Kench,SUPPORT,Milio,45.38%,6
+Tahm Kench,SUPPORT,Braum,38.98%,7
+Tahm Kench,SUPPORT,Bard,50.48%,8
+Tahm Kench,SUPPORT,Senna,56.47%,9
+Tahm Kench,SUPPORT,Yuumi,70.59%,10
+Tahm Kench,TOP,Garen,50.64%,1
+Tahm Kench,TOP,Aatrox,50.81%,2
+Tahm Kench,TOP,Ornn,50.83%,3
+Tahm Kench,TOP,Zaahen,45.83%,4
+Tahm Kench,TOP,Sett,41.18%,5
+Tahm Kench,TOP,Mordekaiser,50.43%,6
+Tahm Kench,TOP,Darius,45.30%,7
+Tahm Kench,TOP,Malphite,55.10%,8
+Tahm Kench,TOP,Gangplank,47.67%,9
+Tahm Kench,TOP,Yone,43.75%,10
+Taliyah,JUNGLE,Lee Sin,50.78%,1
+Taliyah,JUNGLE,Graves,46.53%,2
+Taliyah,JUNGLE,Viego,54.21%,3
+Taliyah,JUNGLE,Kha'Zix,46.15%,4
+Taliyah,JUNGLE,Xin Zhao,47.19%,5
+Taliyah,JUNGLE,Jarvan IV,38.46%,6
+Taliyah,JUNGLE,Vi,44.44%,7
+Taliyah,JUNGLE,Ambessa,35.85%,8
+Taliyah,JUNGLE,Zaahen,47.06%,9
+Taliyah,JUNGLE,Ekko,44.90%,10
+Taliyah,MID,Ahri,52.53%,1
+Taliyah,MID,Yasuo,53.03%,2
+Taliyah,MID,Viktor,39.38%,3
+Taliyah,MID,Sylas,44.52%,4
+Taliyah,MID,Twisted Fate,54.01%,5
+Taliyah,MID,Ryze,65.25%,6
+Taliyah,MID,Orianna,52.99%,7
+Taliyah,MID,Katarina,40.35%,8
+Taliyah,MID,Akali,43.24%,9
+Taliyah,MID,Mel,46.36%,10
+Talon,JUNGLE,Viego,52.59%,1
+Talon,JUNGLE,Kha'Zix,50.42%,2
+Talon,JUNGLE,Lee Sin,50.98%,3
+Talon,JUNGLE,Graves,51.75%,4
+Talon,JUNGLE,Nocturne,49.81%,5
+Talon,JUNGLE,Jarvan IV,47.51%,6
+Talon,JUNGLE,Hecarim,50.47%,7
+Talon,JUNGLE,Rengar,46.12%,8
+Talon,JUNGLE,Master Yi,48.02%,9
+Talon,JUNGLE,Kayn,51.06%,10
+Talon,MID,Ahri,47.44%,1
+Talon,MID,Akali,50.84%,2
+Talon,MID,Yasuo,53.50%,3
+Talon,MID,Zed,49.67%,4
+Talon,MID,Twisted Fate,53.10%,5
+Talon,MID,Sylas,54.35%,6
+Talon,MID,Katarina,48.48%,7
+Talon,MID,Malzahar,49.61%,8
+Talon,MID,Viktor,60.63%,9
+Talon,MID,Yone,47.06%,10
+Taric,SUPPORT,Thresh,57.44%,1
+Taric,SUPPORT,Nami,40.98%,2
+Taric,SUPPORT,Nautilus,61.80%,3
+Taric,SUPPORT,Lulu,56.30%,4
+Taric,SUPPORT,Braum,54.39%,5
+Taric,SUPPORT,Karma,53.57%,6
+Taric,SUPPORT,Leona,55.96%,7
+Taric,SUPPORT,Bard,44.44%,8
+Taric,SUPPORT,Milio,53.25%,9
+Taric,SUPPORT,Alistar,54.67%,10
+Teemo,JUNGLE,Lee Sin,44.74%,1
+Teemo,JUNGLE,Viego,47.95%,2
+Teemo,JUNGLE,Graves,42.86%,3
+Teemo,JUNGLE,Kha'Zix,55.93%,4
+Teemo,JUNGLE,Nocturne,51.02%,5
+Teemo,JUNGLE,Kayn,55.32%,6
+Teemo,JUNGLE,Vi,36.17%,7
+Teemo,JUNGLE,Xin Zhao,47.62%,8
+Teemo,JUNGLE,Naafiri,46.34%,9
+Teemo,JUNGLE,Jarvan IV,66.67%,10
+Teemo,TOP,Malphite,46.47%,1
+Teemo,TOP,Garen,49.35%,2
+Teemo,TOP,Zaahen,48.98%,3
+Teemo,TOP,Sion,45.99%,4
+Teemo,TOP,Vayne,65.19%,5
+Teemo,TOP,Aatrox,54.47%,6
+Teemo,TOP,Ornn,43.64%,7
+Teemo,TOP,Renekton,64.22%,8
+Teemo,TOP,Ambessa,60.38%,9
+Teemo,TOP,Darius,47.47%,10
+Thresh,SUPPORT,Nami,48.95%,1
+Thresh,SUPPORT,Karma,52.44%,2
+Thresh,SUPPORT,Nautilus,51.50%,3
+Thresh,SUPPORT,Lulu,50.89%,4
+Thresh,SUPPORT,Braum,52.39%,5
+Thresh,SUPPORT,Leona,49.28%,6
+Thresh,SUPPORT,Bard,50.99%,7
+Thresh,SUPPORT,Milio,49.83%,8
+Thresh,SUPPORT,Pyke,51.59%,9
+Thresh,SUPPORT,Blitzcrank,47.78%,10
+Tristana,ADC,Kai'Sa,50.24%,1
+Tristana,ADC,Ezreal,50.49%,2
+Tristana,ADC,Jinx,50.86%,3
+Tristana,ADC,Jhin,52.20%,4
+Tristana,ADC,Smolder,50.26%,5
+Tristana,ADC,Ashe,48.50%,6
+Tristana,ADC,Miss Fortune,53.38%,7
+Tristana,ADC,Yunara,52.45%,8
+Tristana,ADC,Lucian,52.57%,9
+Tristana,ADC,Twitch,50.78%,10
+Tristana,MID,Ahri,41.79%,1
+Tristana,MID,Kassadin,46.67%,2
+Tristana,MID,Viktor,37.14%,3
+Tristana,MID,Sylas,37.14%,4
+Tristana,MID,Katarina,48.48%,5
+Trundle,JUNGLE,Lee Sin,40.78%,1
+Trundle,JUNGLE,Xin Zhao,53.66%,2
+Trundle,JUNGLE,Graves,45.07%,3
+Trundle,JUNGLE,Viego,54.41%,4
+Trundle,JUNGLE,Dr. Mundo,47.62%,5
+Trundle,JUNGLE,Jarvan IV,46.81%,6
+Trundle,JUNGLE,Volibear,59.09%,7
+Trundle,JUNGLE,Shen,39.53%,8
+Trundle,JUNGLE,Vi,52.38%,9
+Trundle,JUNGLE,Lillia,65.85%,10
+Trundle,TOP,Jax,48.98%,1
+Trundle,TOP,Garen,45.12%,2
+Trundle,TOP,Darius,58.02%,3
+Trundle,TOP,Sion,52.11%,4
+Trundle,TOP,Aatrox,50.72%,5
+Trundle,TOP,Ornn,44.93%,6
+Trundle,TOP,Volibear,64.18%,7
+Trundle,TOP,Zaahen,44.26%,8
+Trundle,TOP,Nasus,61.67%,9
+Trundle,TOP,Irelia,55.17%,10
+Tryndamere,TOP,Garen,56.42%,1
+Tryndamere,TOP,Jax,50.31%,2
+Tryndamere,TOP,Malphite,42.38%,3
+Tryndamere,TOP,Aatrox,53.03%,4
+Tryndamere,TOP,Nasus,48.76%,5
+Tryndamere,TOP,Zaahen,45.76%,6
+Tryndamere,TOP,Darius,52.99%,7
+Tryndamere,TOP,Gangplank,48.60%,8
+Tryndamere,TOP,Mordekaiser,47.06%,9
+Tryndamere,TOP,Yone,43.56%,10
+Twisted Fate,MID,Ahri,49.83%,1
+Twisted Fate,MID,Sylas,52.48%,2
+Twisted Fate,MID,Akali,54.71%,3
+Twisted Fate,MID,Viktor,48.11%,4
+Twisted Fate,MID,Malzahar,52.19%,5
+Twisted Fate,MID,Mel,48.86%,6
+Twisted Fate,MID,Katarina,46.43%,7
+Twisted Fate,MID,Yasuo,50.15%,8
+Twisted Fate,MID,Yone,57.44%,9
+Twisted Fate,MID,Ryze,56.94%,10
+Twitch,ADC,Jinx,52.47%,1
+Twitch,ADC,Kai'Sa,50.22%,2
+Twitch,ADC,Caitlyn,50.06%,3
+Twitch,ADC,Ezreal,51.98%,4
+Twitch,ADC,Jhin,52.43%,5
+Twitch,ADC,Smolder,52.97%,6
+Twitch,ADC,Miss Fortune,47.78%,7
+Twitch,ADC,Ashe,50.23%,8
+Twitch,ADC,Yunara,56.26%,9
+Twitch,ADC,Vayne,49.28%,10
+Udyr,JUNGLE,Graves,52.83%,1
+Udyr,JUNGLE,Viego,48.73%,2
+Udyr,JUNGLE,Kha'Zix,46.02%,3
+Udyr,JUNGLE,Jarvan IV,47.87%,4
+Udyr,JUNGLE,Xin Zhao,48.91%,5
+Udyr,JUNGLE,Nocturne,56.47%,6
+Udyr,JUNGLE,Lillia,51.81%,7
+Udyr,JUNGLE,Talon,48.72%,8
+Udyr,JUNGLE,Diana,44.16%,9
+Udyr,JUNGLE,Rengar,53.95%,10
+Udyr,TOP,Aatrox,56.92%,1
+Udyr,TOP,Garen,59.32%,2
+Udyr,TOP,Jax,48.28%,3
+Udyr,TOP,Zaahen,60.38%,4
+Udyr,TOP,Renekton,51.11%,5
+Udyr,TOP,Ornn,58.54%,6
+Udyr,TOP,Sett,53.66%,7
+Udyr,TOP,Sion,52.63%,8
+Udyr,TOP,K'Sante,57.89%,9
+Udyr,TOP,Gangplank,37.84%,10
+Urgot,TOP,Aatrox,51.02%,1
+Urgot,TOP,Garen,49.23%,2
+Urgot,TOP,Mordekaiser,56.17%,3
+Urgot,TOP,Sion,45.34%,4
+Urgot,TOP,Ornn,46.10%,5
+Urgot,TOP,Gnar,52.35%,6
+Urgot,TOP,Darius,52.03%,7
+Urgot,TOP,Zaahen,45.07%,8
+Urgot,TOP,Ambessa,55.80%,9
+Urgot,TOP,Malphite,46.21%,10
+Varus,ADC,Ezreal,48.38%,1
+Varus,ADC,Caitlyn,52.45%,2
+Varus,ADC,Jhin,48.83%,3
+Varus,ADC,Kai'Sa,52.14%,4
+Varus,ADC,Jinx,47.15%,5
+Varus,ADC,Ashe,46.65%,6
+Varus,ADC,Lucian,51.57%,7
+Varus,ADC,Sivir,48.83%,8
+Varus,ADC,Yunara,55.71%,9
+Varus,ADC,Aphelios,52.03%,10
+Varus,TOP,Aatrox,46.61%,1
+Varus,TOP,Vayne,54.21%,2
+Varus,TOP,Jax,38.83%,3
+Varus,TOP,Malphite,55.88%,4
+Varus,TOP,Garen,54.46%,5
+Varus,TOP,Nasus,47.87%,6
+Varus,TOP,Renekton,57.95%,7
+Varus,TOP,Yasuo,48.28%,8
+Varus,TOP,Yone,56.98%,9
+Varus,TOP,K'Sante,52.33%,10
+Vayne,ADC,Kai'Sa,50.09%,1
+Vayne,ADC,Ezreal,57.13%,2
+Vayne,ADC,Jinx,50.91%,3
+Vayne,ADC,Caitlyn,50.81%,4
+Vayne,ADC,Jhin,51.89%,5
+Vayne,ADC,Smolder,49.65%,6
+Vayne,ADC,Ashe,48.49%,7
+Vayne,ADC,Twitch,50.72%,8
+Vayne,ADC,Yunara,48.03%,9
+Vayne,ADC,Samira,51.01%,10
+Vayne,TOP,Garen,54.83%,1
+Vayne,TOP,Malphite,34.96%,2
+Vayne,TOP,Darius,52.88%,3
+Vayne,TOP,Ornn,44.50%,4
+Vayne,TOP,Aatrox,47.85%,5
+Vayne,TOP,K'Sante,55.56%,6
+Vayne,TOP,Sett,55.62%,7
+Vayne,TOP,Zaahen,55.19%,8
+Vayne,TOP,Mordekaiser,48.37%,9
+Vayne,TOP,Sion,51.75%,10
+Veigar,ADC,Caitlyn,55.20%,1
+Veigar,ADC,Jinx,52.48%,2
+Veigar,ADC,Ezreal,52.19%,3
+Veigar,ADC,Kai'Sa,62.21%,4
+Veigar,ADC,Smolder,55.19%,5
+Veigar,ADC,Jhin,50.57%,6
+Veigar,ADC,Ashe,58.18%,7
+Veigar,ADC,Vayne,50.50%,8
+Veigar,ADC,Yunara,55.67%,9
+Veigar,ADC,Miss Fortune,59.57%,10
+Veigar,MID,Ahri,50.21%,1
+Veigar,MID,Yasuo,49.32%,2
+Veigar,MID,Katarina,49.05%,3
+Veigar,MID,Viktor,48.67%,4
+Veigar,MID,Malzahar,52.89%,5
+Veigar,MID,Sylas,50.93%,6
+Veigar,MID,Zed,46.12%,7
+Veigar,MID,Mel,57.43%,8
+Veigar,MID,Akali,50.50%,9
+Veigar,MID,Xerath,47.50%,10
+Vel'Koz,ADC,Ezreal,49.61%,1
+Vel'Koz,ADC,Caitlyn,55.56%,2
+Vel'Koz,ADC,Kai'Sa,48.54%,3
+Vel'Koz,ADC,Jinx,54.95%,4
+Vel'Koz,ADC,Jhin,61.36%,5
+Vel'Koz,ADC,Smolder,44.26%,6
+Vel'Koz,ADC,Yunara,52.73%,7
+Vel'Koz,ADC,Miss Fortune,44.19%,8
+Vel'Koz,ADC,Ashe,53.49%,9
+Vel'Koz,ADC,Twitch,48.78%,10
+Vel'Koz,MID,Ahri,45.51%,1
+Vel'Koz,MID,Viktor,58.04%,2
+Vel'Koz,MID,Sylas,51.16%,3
+Vel'Koz,MID,Yasuo,49.41%,4
+Vel'Koz,MID,Katarina,44.05%,5
+Vel'Koz,MID,Malzahar,41.03%,6
+Vel'Koz,MID,Xerath,43.84%,7
+Vel'Koz,MID,Syndra,40.28%,8
+Vel'Koz,MID,Mel,59.72%,9
+Vel'Koz,MID,Zed,56.52%,10
+Vel'Koz,SUPPORT,Nami,51.74%,1
+Vel'Koz,SUPPORT,Karma,45.77%,2
+Vel'Koz,SUPPORT,Thresh,48.76%,3
+Vel'Koz,SUPPORT,Nautilus,49.35%,4
+Vel'Koz,SUPPORT,Lulu,52.26%,5
+Vel'Koz,SUPPORT,Bard,47.89%,6
+Vel'Koz,SUPPORT,Milio,50.55%,7
+Vel'Koz,SUPPORT,Leona,51.70%,8
+Vel'Koz,SUPPORT,Lux,52.98%,9
+Vel'Koz,SUPPORT,Soraka,53.38%,10
+Vex,MID,Ahri,50.51%,1
+Vex,MID,Yasuo,50.62%,2
+Vex,MID,Katarina,53.67%,3
+Vex,MID,LeBlanc,56.42%,4
+Vex,MID,Akali,54.43%,5
+Vex,MID,Zed,46.86%,6
+Vex,MID,Sylas,55.62%,7
+Vex,MID,Viktor,45.88%,8
+Vex,MID,Yone,66.04%,9
+Vex,MID,Twisted Fate,47.76%,10
+Vi,JUNGLE,Lee Sin,52.70%,1
+Vi,JUNGLE,Viego,46.10%,2
+Vi,JUNGLE,Graves,46.89%,3
+Vi,JUNGLE,Xin Zhao,46.09%,4
+Vi,JUNGLE,Kha'Zix,52.90%,5
+Vi,JUNGLE,Jarvan IV,48.73%,6
+Vi,JUNGLE,Zaahen,46.09%,7
+Vi,JUNGLE,Nocturne,47.04%,8
+Vi,JUNGLE,Sylas,53.85%,9
+Vi,JUNGLE,Lillia,47.77%,10
+Viego,JUNGLE,Lee Sin,47.65%,1
+Viego,JUNGLE,Graves,50.23%,2
+Viego,JUNGLE,Kha'Zix,48.61%,3
+Viego,JUNGLE,Xin Zhao,46.63%,4
+Viego,JUNGLE,Vi,53.90%,5
+Viego,JUNGLE,Jarvan IV,47.73%,6
+Viego,JUNGLE,Nocturne,47.14%,7
+Viego,JUNGLE,Zaahen,49.92%,8
+Viego,JUNGLE,Kayn,49.74%,9
+Viego,JUNGLE,Ekko,47.92%,10
+Viktor,MID,Ahri,51.55%,1
+Viktor,MID,Xerath,48.92%,2
+Viktor,MID,Mel,53.14%,3
+Viktor,MID,Orianna,53.21%,4
+Viktor,MID,Syndra,50.76%,5
+Viktor,MID,Malzahar,52.18%,6
+Viktor,MID,Sylas,47.56%,7
+Viktor,MID,Zed,45.64%,8
+Viktor,MID,Akali,51.49%,9
+Viktor,MID,Katarina,52.73%,10
+Vladimir,MID,Ahri,44.74%,1
+Vladimir,MID,Yasuo,53.69%,2
+Vladimir,MID,Zed,56.54%,3
+Vladimir,MID,Katarina,57.71%,4
+Vladimir,MID,Malzahar,40.40%,5
+Vladimir,MID,Viktor,41.44%,6
+Vladimir,MID,Akali,54.27%,7
+Vladimir,MID,Sylas,45.45%,8
+Vladimir,MID,Mel,54.05%,9
+Vladimir,MID,Fizz,57.69%,10
+Vladimir,TOP,Jax,51.43%,1
+Vladimir,TOP,Garen,46.88%,2
+Vladimir,TOP,Aatrox,54.95%,3
+Vladimir,TOP,Darius,57.78%,4
+Vladimir,TOP,Gangplank,53.57%,5
+Vladimir,TOP,Malphite,65.48%,6
+Vladimir,TOP,Nasus,41.67%,7
+Vladimir,TOP,Irelia,49.40%,8
+Vladimir,TOP,Gnar,54.43%,9
+Vladimir,TOP,Zaahen,46.58%,10
+Volibear,JUNGLE,Viego,46.08%,1
+Volibear,JUNGLE,Lee Sin,49.80%,2
+Volibear,JUNGLE,Graves,44.50%,3
+Volibear,JUNGLE,Kha'Zix,56.59%,4
+Volibear,JUNGLE,Jarvan IV,49.40%,5
+Volibear,JUNGLE,Xin Zhao,42.77%,6
+Volibear,JUNGLE,Nocturne,42.86%,7
+Volibear,JUNGLE,Kayn,46.88%,8
+Volibear,JUNGLE,Briar,49.34%,9
+Volibear,JUNGLE,Diana,51.37%,10
+Volibear,TOP,Garen,52.23%,1
+Volibear,TOP,Aatrox,46.59%,2
+Volibear,TOP,Mordekaiser,43.89%,3
+Volibear,TOP,Darius,46.99%,4
+Volibear,TOP,Jax,42.29%,5
+Volibear,TOP,Zaahen,48.65%,6
+Volibear,TOP,Sett,47.89%,7
+Volibear,TOP,Renekton,46.92%,8
+Volibear,TOP,Ornn,47.89%,9
+Volibear,TOP,Irelia,49.12%,10
+Warwick,JUNGLE,Lee Sin,49.27%,1
+Warwick,JUNGLE,Viego,52.33%,2
+Warwick,JUNGLE,Graves,46.78%,3
+Warwick,JUNGLE,Nocturne,53.60%,4
+Warwick,JUNGLE,Jarvan IV,41.51%,5
+Warwick,JUNGLE,Xin Zhao,51.96%,6
+Warwick,JUNGLE,Briar,46.08%,7
+Warwick,JUNGLE,Kayn,41.86%,8
+Warwick,JUNGLE,Lillia,48.84%,9
+Warwick,JUNGLE,Zaahen,52.38%,10
+Warwick,TOP,Aatrox,55.56%,1
+Warwick,TOP,Garen,49.35%,2
+Warwick,TOP,Renekton,50.72%,3
+Warwick,TOP,Zaahen,45.45%,4
+Warwick,TOP,Sett,53.23%,5
+Warwick,TOP,Ambessa,56.67%,6
+Warwick,TOP,Jax,44.83%,7
+Warwick,TOP,K'Sante,53.45%,8
+Warwick,TOP,Mordekaiser,54.39%,9
+Warwick,TOP,Irelia,59.26%,10
+Xayah,ADC,Kai'Sa,55.47%,1
+Xayah,ADC,Ezreal,53.49%,2
+Xayah,ADC,Jinx,44.89%,3
+Xayah,ADC,Caitlyn,52.51%,4
+Xayah,ADC,Jhin,52.18%,5
+Xayah,ADC,Lucian,50.93%,6
+Xayah,ADC,Yunara,53.94%,7
+Xayah,ADC,Smolder,50.89%,8
+Xayah,ADC,Samira,52.94%,9
+Xayah,ADC,Ashe,51.05%,10
+Xerath,MID,Ahri,47.61%,1
+Xerath,MID,Viktor,51.08%,2
+Xerath,MID,Mel,61.89%,3
+Xerath,MID,Syndra,50.82%,4
+Xerath,MID,Malzahar,53.02%,5
+Xerath,MID,Yasuo,54.92%,6
+Xerath,MID,Zed,52.73%,7
+Xerath,MID,Twisted Fate,52.94%,8
+Xerath,MID,Sylas,46.44%,9
+Xerath,MID,Lux,53.20%,10
+Xerath,SUPPORT,Karma,48.90%,1
+Xerath,SUPPORT,Thresh,52.54%,2
+Xerath,SUPPORT,Nami,45.82%,3
+Xerath,SUPPORT,Nautilus,48.31%,4
+Xerath,SUPPORT,Lulu,41.42%,5
+Xerath,SUPPORT,Blitzcrank,42.58%,6
+Xerath,SUPPORT,Lux,60.32%,7
+Xerath,SUPPORT,Bard,41.92%,8
+Xerath,SUPPORT,Leona,44.38%,9
+Xerath,SUPPORT,Pyke,40.14%,10
+Xin Zhao,JUNGLE,Lee Sin,51.29%,1
+Xin Zhao,JUNGLE,Viego,53.37%,2
+Xin Zhao,JUNGLE,Graves,51.61%,3
+Xin Zhao,JUNGLE,Kha'Zix,53.08%,4
+Xin Zhao,JUNGLE,Vi,53.91%,5
+Xin Zhao,JUNGLE,Zaahen,41.09%,6
+Xin Zhao,JUNGLE,Jarvan IV,53.06%,7
+Xin Zhao,JUNGLE,Naafiri,54.17%,8
+Xin Zhao,JUNGLE,Ekko,52.19%,9
+Xin Zhao,JUNGLE,Briar,53.79%,10
+Yasuo,ADC,Kai'Sa,53.93%,1
+Yasuo,ADC,Caitlyn,48.88%,2
+Yasuo,ADC,Jhin,55.84%,3
+Yasuo,ADC,Ezreal,62.50%,4
+Yasuo,ADC,Jinx,53.42%,5
+Yasuo,ADC,Smolder,51.30%,6
+Yasuo,ADC,Lucian,61.73%,7
+Yasuo,ADC,Yunara,53.75%,8
+Yasuo,ADC,Vayne,48.72%,9
+Yasuo,ADC,Xayah,47.37%,10
+Yasuo,MID,Ahri,48.45%,1
+Yasuo,MID,Zed,48.91%,2
+Yasuo,MID,Akali,48.07%,3
+Yasuo,MID,Yone,46.43%,4
+Yasuo,MID,Katarina,50.44%,5
+Yasuo,MID,Malzahar,48.43%,6
+Yasuo,MID,Sylas,50.70%,7
+Yasuo,MID,Mel,54.25%,8
+Yasuo,MID,Lissandra,46.17%,9
+Yasuo,MID,Twisted Fate,49.85%,10
+Yasuo,TOP,Renekton,47.59%,1
+Yasuo,TOP,Malphite,48.18%,2
+Yasuo,TOP,Jax,46.32%,3
+Yasuo,TOP,Yone,44.44%,4
+Yasuo,TOP,Aatrox,46.28%,5
+Yasuo,TOP,Garen,36.72%,6
+Yasuo,TOP,Darius,48.85%,7
+Yasuo,TOP,Jayce,53.53%,8
+Yasuo,TOP,Zaahen,38.69%,9
+Yasuo,TOP,Irelia,49.06%,10
+Yone,MID,Ahri,45.45%,1
+Yone,MID,Yasuo,53.57%,2
+Yone,MID,Akali,42.92%,3
+Yone,MID,Viktor,47.97%,4
+Yone,MID,Sylas,51.20%,5
+Yone,MID,Zed,47.35%,6
+Yone,MID,Katarina,47.32%,7
+Yone,MID,Twisted Fate,42.56%,8
+Yone,MID,Mel,51.59%,9
+Yone,MID,Kassadin,54.12%,10
+Yone,TOP,Aatrox,49.81%,1
+Yone,TOP,Renekton,52.44%,2
+Yone,TOP,Jax,46.65%,3
+Yone,TOP,Garen,47.72%,4
+Yone,TOP,Malphite,49.36%,5
+Yone,TOP,Sion,54.93%,6
+Yone,TOP,Ornn,57.29%,7
+Yone,TOP,Sett,51.25%,8
+Yone,TOP,Zaahen,44.44%,9
+Yone,TOP,Darius,42.68%,10
+Yorick,TOP,Aatrox,52.70%,1
+Yorick,TOP,Jax,45.37%,2
+Yorick,TOP,Mordekaiser,46.41%,3
+Yorick,TOP,Yone,41.50%,4
+Yorick,TOP,Sion,49.47%,5
+Yorick,TOP,Garen,50.58%,6
+Yorick,TOP,Ornn,49.09%,7
+Yorick,TOP,Darius,54.55%,8
+Yorick,TOP,Gangplank,46.41%,9
+Yorick,TOP,Zaahen,54.97%,10
+Yunara,ADC,Kai'Sa,51.52%,1
+Yunara,ADC,Ezreal,48.72%,2
+Yunara,ADC,Jinx,48.90%,3
+Yunara,ADC,Jhin,50.17%,4
+Yunara,ADC,Lucian,48.42%,5
+Yunara,ADC,Smolder,45.31%,6
+Yunara,ADC,Ashe,48.88%,7
+Yunara,ADC,Aphelios,48.64%,8
+Yunara,ADC,Sivir,48.41%,9
+Yunara,ADC,Miss Fortune,44.79%,10
+Yuumi,SUPPORT,Nami,47.55%,1
+Yuumi,SUPPORT,Lulu,49.38%,2
+Yuumi,SUPPORT,Karma,49.53%,3
+Yuumi,SUPPORT,Thresh,43.09%,4
+Yuumi,SUPPORT,Nautilus,41.56%,5
+Yuumi,SUPPORT,Leona,48.66%,6
+Yuumi,SUPPORT,Bard,44.31%,7
+Yuumi,SUPPORT,Pyke,42.71%,8
+Yuumi,SUPPORT,Milio,43.31%,9
+Yuumi,SUPPORT,Soraka,48.70%,10
+Zaahen,JUNGLE,Lee Sin,51.70%,1
+Zaahen,JUNGLE,Viego,50.08%,2
+Zaahen,JUNGLE,Xin Zhao,58.91%,3
+Zaahen,JUNGLE,Graves,46.25%,4
+Zaahen,JUNGLE,Kha'Zix,51.70%,5
+Zaahen,JUNGLE,Jarvan IV,49.28%,6
+Zaahen,JUNGLE,Vi,53.91%,7
+Zaahen,JUNGLE,Nocturne,53.25%,8
+Zaahen,JUNGLE,Kayn,49.22%,9
+Zaahen,JUNGLE,Hecarim,53.88%,10
+Zaahen,TOP,Aatrox,51.16%,1
+Zaahen,TOP,Jax,51.42%,2
+Zaahen,TOP,Garen,47.45%,3
+Zaahen,TOP,Renekton,53.29%,4
+Zaahen,TOP,Ambessa,54.55%,5
+Zaahen,TOP,Darius,48.94%,6
+Zaahen,TOP,Ornn,49.24%,7
+Zaahen,TOP,Sett,55.52%,8
+Zaahen,TOP,Sion,50.33%,9
+Zaahen,TOP,Mordekaiser,55.47%,10
+Zac,JUNGLE,Lee Sin,56.01%,1
+Zac,JUNGLE,Viego,51.37%,2
+Zac,JUNGLE,Graves,54.26%,3
+Zac,JUNGLE,Kha'Zix,52.97%,4
+Zac,JUNGLE,Xin Zhao,39.61%,5
+Zac,JUNGLE,Lillia,49.35%,6
+Zac,JUNGLE,Nocturne,47.37%,7
+Zac,JUNGLE,Jarvan IV,42.11%,8
+Zac,JUNGLE,Vi,45.27%,9
+Zac,JUNGLE,Kayn,48.20%,10
+Zac,TOP,Zaahen,58.54%,1
+Zac,TOP,Aatrox,46.15%,2
+Zac,TOP,Ambessa,45.45%,3
+Zac,TOP,Sion,59.38%,4
+Zac,TOP,Yone,41.94%,5
+Zed,JUNGLE,Lee Sin,52.75%,1
+Zed,JUNGLE,Graves,47.18%,2
+Zed,JUNGLE,Viego,46.89%,3
+Zed,JUNGLE,Kha'Zix,48.37%,4
+Zed,JUNGLE,Nocturne,49.18%,5
+Zed,JUNGLE,Jarvan IV,55.74%,6
+Zed,JUNGLE,Xin Zhao,50.89%,7
+Zed,JUNGLE,Diana,50.48%,8
+Zed,JUNGLE,Master Yi,49.02%,9
+Zed,JUNGLE,Kayn,48.04%,10
+Zed,MID,Ahri,49.95%,1
+Zed,MID,Yasuo,51.09%,2
+Zed,MID,Sylas,49.32%,3
+Zed,MID,Katarina,52.69%,4
+Zed,MID,Akali,52.49%,5
+Zed,MID,Viktor,54.36%,6
+Zed,MID,Malzahar,49.47%,7
+Zed,MID,Yone,52.65%,8
+Zed,MID,LeBlanc,51.88%,9
+Zed,MID,Lissandra,49.37%,10
+Zeri,ADC,Kai'Sa,54.14%,1
+Zeri,ADC,Jinx,47.03%,2
+Zeri,ADC,Jhin,50.53%,3
+Zeri,ADC,Caitlyn,51.44%,4
+Zeri,ADC,Yunara,54.09%,5
+Zeri,ADC,Smolder,47.25%,6
+Zeri,ADC,Lucian,54.64%,7
+Zeri,ADC,Ashe,44.91%,8
+Zeri,ADC,Miss Fortune,44.72%,9
+Zeri,ADC,Aphelios,53.25%,10
+Ziggs,ADC,Caitlyn,54.08%,1
+Ziggs,ADC,Ezreal,52.16%,2
+Ziggs,ADC,Kai'Sa,43.54%,3
+Ziggs,ADC,Jinx,54.65%,4
+Ziggs,ADC,Jhin,52.74%,5
+Ziggs,ADC,Smolder,46.95%,6
+Ziggs,ADC,Sivir,50.37%,7
+Ziggs,ADC,Ashe,58.87%,8
+Ziggs,ADC,Aphelios,66.67%,9
+Ziggs,ADC,Yunara,45.45%,10
+Ziggs,MID,Ahri,39.29%,1
+Ziggs,MID,Viktor,47.89%,2
+Ziggs,MID,Yasuo,54.41%,3
+Ziggs,MID,Mel,34.43%,4
+Ziggs,MID,Xerath,42.31%,5
+Ziggs,MID,Malzahar,43.14%,6
+Ziggs,MID,Syndra,56.52%,7
+Ziggs,MID,Veigar,59.09%,8
+Ziggs,MID,Yone,47.62%,9
+Ziggs,MID,Sylas,56.41%,10
+Zilean,SUPPORT,Nami,48.63%,1
+Zilean,SUPPORT,Karma,49.86%,2
+Zilean,SUPPORT,Thresh,52.30%,3
+Zilean,SUPPORT,Lulu,52.63%,4
+Zilean,SUPPORT,Nautilus,51.54%,5
+Zilean,SUPPORT,Bard,51.42%,6
+Zilean,SUPPORT,Milio,57.21%,7
+Zilean,SUPPORT,Braum,55.11%,8
+Zilean,SUPPORT,Senna,46.62%,9
+Zilean,SUPPORT,Soraka,49.65%,10
+Zoe,MID,Ahri,49.08%,1
+Zoe,MID,Mel,49.83%,2
+Zoe,MID,Yasuo,54.34%,3
+Zoe,MID,Zed,57.20%,4
+Zoe,MID,Viktor,41.90%,5
+Zoe,MID,Sylas,56.58%,6
+Zoe,MID,Malzahar,52.21%,7
+Zoe,MID,Katarina,40.93%,8
+Zoe,MID,Twisted Fate,49.07%,9
+Zoe,MID,Akali,53.47%,10
+Zoe,SUPPORT,Nami,49.22%,1
+Zoe,SUPPORT,Thresh,37.04%,2
+Zoe,SUPPORT,Lulu,57.35%,3
+Zoe,SUPPORT,Karma,37.31%,4
+Zoe,SUPPORT,Nautilus,49.23%,5
+Zoe,SUPPORT,Bard,56.52%,6
+Zoe,SUPPORT,Rakan,52.63%,7
+Zoe,SUPPORT,Milio,36.84%,8
+Zoe,SUPPORT,Sona,34.29%,9
+Zoe,SUPPORT,Leona,51.43%,10
+Zyra,JUNGLE,Lee Sin,53.51%,1
+Zyra,JUNGLE,Graves,55.61%,2
+Zyra,JUNGLE,Viego,54.67%,3
+Zyra,JUNGLE,Xin Zhao,53.66%,4
+Zyra,JUNGLE,Jarvan IV,40.78%,5
+Zyra,JUNGLE,Kha'Zix,57.28%,6
+Zyra,JUNGLE,Nocturne,48.04%,7
+Zyra,JUNGLE,Vi,59.76%,8
+Zyra,JUNGLE,Ekko,42.47%,9
+Zyra,JUNGLE,Lillia,51.47%,10
+Zyra,SUPPORT,Nami,51.61%,1
+Zyra,SUPPORT,Thresh,49.18%,2
+Zyra,SUPPORT,Karma,52.05%,3
+Zyra,SUPPORT,Lulu,52.70%,4
+Zyra,SUPPORT,Bard,45.50%,5
+Zyra,SUPPORT,Nautilus,46.86%,6
+Zyra,SUPPORT,Milio,52.05%,7
+Zyra,SUPPORT,Leona,57.82%,8
+Zyra,SUPPORT,Soraka,50.71%,9
+Zyra,SUPPORT,Braum,52.63%,10
