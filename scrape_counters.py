@@ -84,8 +84,9 @@ def fetch_counter_data(champion: str, role: str) -> Optional[list[dict[str, str]
 		
 		parsed_rows: list[tuple[str, float]] = []
 
-		# Parse candidate rows. We capture more than 10, then sort by winrate.
-		for counter_name, winrate_str, games_str in matches[:25]:
+		# Parse candidate rows. Process more matches since op.gg sorts by games, not winrate.
+		# Champions with fewer games but higher winrates may appear later in the list.
+		for counter_name, winrate_str, games_str in matches[:50]:
 			counter_name = counter_name.strip()
 			
 			# Validate: must be at least 2 chars, not start with digit
