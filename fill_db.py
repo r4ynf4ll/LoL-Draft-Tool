@@ -3,10 +3,11 @@ from pathlib import Path
 
 from sqlmodel import Session, delete
 
-from models import Champion, engine
+from models import Champion, engine, init_db
 
 def populate_db():
     """Populate the database with champion data from CSV."""
+    init_db()
     csv_path = Path(__file__).with_name("opgg_champions.csv")
 
     # Parse CSV first so we never wipe existing rows if parsing fails.
