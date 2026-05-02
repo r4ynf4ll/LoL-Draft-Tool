@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>LoL Draft Tool</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+	<div class="ambient ambient-one"></div>
+	<div class="ambient ambient-two"></div>
+
+	<main class="shell">
+		<section class="hero card">
+			<div class="eyebrow">LoL Draft Tool</div>
+			<div class="hero-copy">
+				<h1>Search a champion, pick a role, and see the matchup sheet.</h1>
+				<p>Type a champion name to browse every role, then inspect the stats and counter picks for the role you want.</p>
+			</div>
+
+			<div class="search-panel">
+				<div id="searchAvatarWrap" class="search-avatar-wrap placeholder">
+					<img id="searchChampionAvatar" class="search-avatar" alt="Champion portrait preview">
+				</div>
+				<div class="search-field-wrap">
+					<label class="field-label" for="championSearch">Champion name</label>
+					<input id="championSearch" class="search-input" type="text" placeholder="Type a champion name" autocomplete="off" spellcheck="false">
+					<div id="suggestionList" class="suggestions" hidden></div>
+				</div>
+				<button id="clearChampion" class="ghost-button" type="button">Clear</button>
+			</div>
+		</section>
+
+		<section id="resultsSection" class="results-grid" hidden>
+			<article class="card selected-card">
+				<div class="selected-header">
+					<div id="selectedAvatarWrap" class="selected-avatar-wrap placeholder">
+						<img id="selectedChampionAvatar" class="selected-avatar" alt="Selected champion portrait">
+					</div>
+					<div>
+						<div class="section-label">Selected champion</div>
+						<h2 id="selectedChampionName">Choose a champion</h2>
+						<p id="selectedChampionMeta" class="muted">Pick a role to load stats and counters.</p>
+					</div>
+				</div>
+
+				<div id="roleList" class="role-list"></div>
+			</article>
+
+			<article class="card detail-card">
+				<div class="section-label">Role details</div>
+				<div id="detailPanel" class="detail-panel">
+					<p class="empty-state">Select a role to view tier, win rate, pick rate, and counters.</p>
+				</div>
+			</article>
+		</section>
+
+		<section id="counterSection" class="card counter-card" hidden>
+			<div class="counter-heading">
+				<div>
+					<div class="section-label">Counter data</div>
+					<h2 id="counterTitle">Pick against and avoid into</h2>
+				</div>
+				<p id="counterSubtitle" class="muted">Counters update when you select a role.</p>
+			</div>
+
+			<div class="counter-grid">
+				<div class="counter-column">
+					<div class="column-title">Pick against</div>
+					<div id="pickAgainstList" class="champ-list"></div>
+				</div>
+				<div class="counter-column danger-column">
+					<div class="column-title">Avoid into</div>
+					<div id="avoidIntoList" class="champ-list"></div>
+				</div>
+			</div>
+		</section>
+	</main>
+
+	<script src="/script.js" defer></script>
+</body>
+</html>

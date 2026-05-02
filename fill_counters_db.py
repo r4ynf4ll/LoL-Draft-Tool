@@ -12,29 +12,33 @@ def populate_counters_db():
 	init_db()
 	csv_path = Path(__file__).with_name("counter_data.csv")
 
-	# Read and group by champion/role so we can rank by matchup_winrate.
-	grouped: dict[tuple[str, str], list[dict[str, str | float]]] = defaultdict(list)
+	# Read and group by champion/role/matchup_type so each list keeps its own rank.
+	grouped: dict[tuple[str, str, str], list[dict[str, str | float]]] = defaultdict(list)
 	with csv_path.open("r", encoding="utf-8", newline="") as csvfile:
 		reader = csv.DictReader(csvfile)
 		for row in reader:
 			winrate = float(row["matchup_winrate"].rstrip("%"))
-			key = (row["champion_name"], row["role"])
+			matchup_type = row.get("matchup_type", "strong_against")
+			key = (row["champion_name"], row["role"], matchup_type)
 			grouped[key].append(
 				{
+					"matchup_type": matchup_type,
 					"counter_champion": row["counter_champion"],
 					"matchup_winrate": winrate,
 				}
 			)
 
-	# Build final rows: top 10 per champion/role by highest winrate.
+	# Build final rows: top 10 per champion/role/matchup_type.
 	counters: list[Counter] = []
-	for (champion_name, role), rows in grouped.items():
-		sorted_rows = sorted(rows, key=lambda r: float(r["matchup_winrate"]), reverse=True)
+	for (champion_name, role, matchup_type), rows in grouped.items():
+		reverse = matchup_type == "strong_against"
+		sorted_rows = sorted(rows, key=lambda r: float(r["matchup_winrate"]), reverse=reverse)
 		for idx, row in enumerate(sorted_rows[:10], start=1):
 			counters.append(
 				Counter(
 					champion_name=champion_name,
 					role=role,
+					matchup_type=str(row["matchup_type"]),
 					counter_champion=str(row["counter_champion"]),
 					matchup_winrate=float(row["matchup_winrate"]),
 					rank=idx,

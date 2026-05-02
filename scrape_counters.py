@@ -27,7 +27,7 @@ ROLE_MAP = {
 
 
 def fetch_counter_data(champion: str, role: str) -> Optional[list[dict[str, str]]]:
-	"""Fetch top 10 counters for a champion/role from op.gg"""
+	"""Fetch strong and weak matchup champions for a champion/role from op.gg."""
 	# op.gg URL format: /lol/champions/{champion}/counters/{role}
 	# Champion names with spaces/special chars: spaces and ' are removed
 	# e.g. "Bel'Veth" -> "belveth", "Aureliion Sol" -> "aurelionsol"
@@ -106,15 +106,28 @@ def fetch_counter_data(champion: str, role: str) -> Optional[list[dict[str, str]
 			
 			parsed_rows.append((counter_name, winrate))
 
-		# Rank by highest matchup win rate and keep top 10.
-		for rank, (counter_name, winrate) in enumerate(
-			sorted(parsed_rows, key=lambda row: row[1], reverse=True)[:10],
-			start=1,
-		):
+		# Highest win rates are strongest into the selected champion.
+		strong_rows = sorted(parsed_rows, key=lambda row: row[1], reverse=True)[:10]
+		for rank, (counter_name, winrate) in enumerate(strong_rows, start=1):
 			counters.append(
 				{
 					"champion_name": champion,
 					"role": role,
+					"matchup_type": "strong_against",
+					"counter_champion": counter_name,
+					"matchup_winrate": f"{winrate:.2f}%",
+					"rank": rank,
+				}
+			)
+
+		# Lowest win rates are weakest into the selected champion.
+		weak_rows = sorted(parsed_rows, key=lambda row: row[1])[:10]
+		for rank, (counter_name, winrate) in enumerate(weak_rows, start=1):
+			counters.append(
+				{
+					"champion_name": champion,
+					"role": role,
+					"matchup_type": "weak_against",
 					"counter_champion": counter_name,
 					"matchup_winrate": f"{winrate:.2f}%",
 					"rank": rank,
@@ -168,7 +181,7 @@ def main() -> None:
 		with OUTPUT_CSV.open("w", newline="", encoding="utf-8") as f:
 			writer = csv.DictWriter(
 				f,
-				fieldnames=['champion_name', 'role', 'counter_champion', 'matchup_winrate', 'rank']
+				fieldnames=['champion_name', 'role', 'matchup_type', 'counter_champion', 'matchup_winrate', 'rank']
 			)
 			writer.writeheader()
 			writer.writerows(all_counters)
